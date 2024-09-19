@@ -428,3 +428,16 @@ dimwishlist:item=1447836603&perks=1583705720,4049631843
 dimwishlist:item=1050806815&perks=3828510309,2109543898
 dimwishlist:item=1050806815&perks=776531651,2048641572
 dimwishlist:item=1050806815&perks=3828510309,4104185692
+
+//Armor
+
+// Stoicism 
+dimwishlist:item=266021826&perks=1476923953,1476923956 //heart syntho
+dimwishlist:item=266021826&perks=1476923952,1476923956 //assasin syntho
+dimwishlist:item=266021826&perks=1476923953,1476923957 //heart verity, grenade build
+dimwishlist:item=266021826&perks=3573490511,1476923955 //eternal eater, super damage build
+dimwishlist:item=266021826&perks=3573490505,3573490500 //bear armament, unbreakable build
+dimwishlist:item=266021826&perks=1476923953,1476923955 //heart eater, all rounder
+dimwishlist:item=266021826&perks=1476923953,3573490504 //heart cannon, punch build
+dimwishlist:item=266021826&perks=3573490509,3573490504 //severance cannon, alt punch build
+dimwishlist:item=266021826&perks=1476923953,3573490507 //heart scars, all rounder healing focus
