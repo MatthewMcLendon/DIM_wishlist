@@ -121,6 +121,9 @@ dimwishlist:item=4200122994&perks=1821614984,1134488199
 //notes:S-tier Utility
 dimwishlist:item=3818198556&perks=3038247973,1134488199
 dimwishlist:item=3818198556&perks=3523296417,1134488199
+// Discord : Harmony
+//notes:Add clear
+dimwishlist:item=3818198556&perks=3978468247,438098033
 
 // A tier
 // Succession (Brave)
