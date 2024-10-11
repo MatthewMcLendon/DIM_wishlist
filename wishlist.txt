@@ -722,8 +722,8 @@ dimwishlist:item=3652506829&perks=3300816228,1771339417
 // Line in the sand
 // Clown, Deconstruct : BnS
 //notes:B-tier Damage
-dimwishlist:item=2450049485&perks=2284787283,3993379141
-dimwishlist:item=2450049485&perks=3993379141,3993379141
+dimwishlist:item=2450049485&perks=2284787283,3078487919
+dimwishlist:item=2450049485&perks=3993379141,3078487919
 
 //Primaries
 
