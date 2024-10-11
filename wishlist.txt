@@ -1017,64 +1017,98 @@ dimwishlist:item=266021826&perks=1476923953,3573490507 //heart scars, all rounde
 
 //Seasonal
 // Insurmountable
-// Not great, but could be used for a void build or aggresive add clear
-dimwishlist:item=414045521&perks=4071163871,4049631843
-dimwishlist:item=414045521&perks=3523296417,4049631843
-dimwishlist:item=414045521&perks=4071163871,3708227201
-dimwishlist:item=414045521&perks=3523296417,3708227201
+// Repulsor, Attrition : Destabalizing, One4All
+//notes:Utility
 dimwishlist:item=414045521&perks=776531651,2048641572
+dimwishlist:item=414045521&perks=243981275,4049631843
+// Threat, Demo : One4All, Surrounded
+//notes:Add clear
+dimwishlist:item=414045521&perks=4071163871,4049631843
+dimwishlist:item=414045521&perks=4071163871,3708227201
+dimwishlist:item=414045521&perks=3523296417,4049631843
+dimwishlist:item=414045521&perks=3523296417,3708227201
+
 
 // Noxious Vetiver
-// IDK what this gun wants to be. Add clear?
-dimwishlist:item=825495813&perks=3108830275,3966416502
+// LooseChange, Attrition : JoltingFeedback
+//notes:Utility
+dimwishlist:item=825495813&perks=1119449540,3966416502
+dimwishlist:item=825495813&perks=243981275,3966416502
 
 // Exuviae
-// Competes with something new, but more focus on crystals, pvp
+// Rimestealer, Triple, Stats4All : Headstone, PI, One4All
+//notes:Add clear
 dimwishlist:item=2823644677&perks=1955165503,124408337
 dimwishlist:item=2823644677&perks=3400784728,555281244
+dimwishlist:item=2823644677&perks=1583705720,4049631843
+// LoneWolf : Explosive
+//notes:pvp
+dimwishlist:item=2823644677&perks=2579169598,3038247973
 
 // Red Tape
-// Competes with Patron. Stasis / grenade focus
+// Rimestealer, Demo : Headstone, One4All
+//notes:Add clear
 dimwishlist:item=3423493037&perks=1955165503,124408337
-dimwishlist:item=3423493037&perks=3523296417,11612903
 dimwishlist:item=3423493037&perks=3523296417,124408337
-dimwishlist:item=3423493037&perks=1194056669,2213355989
-
-// Scavenger's Fate
-// Not really worth chasing. Basso has similar rolls and better frame. 
+dimwishlist:item=3423493037&perks=3523296417,4049631843
+dimwishlist:item=3423493037&perks=1194056669,4049631843
+// LoneWolf : Explosive
+//notes:pvp
+dimwishlist:item=3423493037&perks=2579169598,3038247973
+dimwishlist:item=3423493037&perks=1354429876,3038247973
 
 // Vantage Point
-// Arc pulse with jolting feedback. Add clear / champ debuf
+// Stats4All, Deconstruct : JoltingFeedback, One4All
+//notes:Add clear
 dimwishlist:item=3830941962&perks=1583705720,3966416502
-dimwishlist:item=3830941962&perks=3993379141,3966416502
 dimwishlist:item=3830941962&perks=1583705720,4049631843
-dimwishlist:item=3830941962&perks=3619207468,3047969693
+dimwishlist:item=3830941962&perks=3993379141,3966416502
+// Deconstruct, Closing : Desperado
+//notes:pvp
 dimwishlist:item=3830941962&perks=3993379141,3047969693
+dimwishlist:item=3830941962&perks=1194056669,3047969693
 
 //Reprised weapons
 
 // Sojourner's Tale
-// Slugs are out of favor in pve but maybe pvp?
-dimwishlist:item=2130875369&perks=706527188,47981717
+// Discord, Heal : Incandescent
+//notes:Add clear
 dimwishlist:item=2130875369&perks=3978468247,4293542123
 dimwishlist:item=2130875369&perks=3017780555,4293542123
+// AHL, Heal : PI
+//notes:Damage
 dimwishlist:item=2130875369&perks=3300816228,555281244
+dimwishlist:item=2130875369&perks=3017780555,555281244
 
 // Chroma Rush
-// Competes with origin story, breakneck. No Onslaught so more utility focused?
+// Subsistence : Rampage, Kinetic, Frenzy
+//notes:Add clear
+dimwishlist:item=2598420927&perks=1820235745,3425386926
 dimwishlist:item=2598420927&perks=1820235745,3891536761
+dimwishlist:item=2598420927&perks=1820235745,4104185692
+// KillingWind, TunnelVision, HeatingUp : Kill, TargetLock
+//notes:pvp
+dimwishlist:item=2598420927&perks=2450788523,1015611457
+dimwishlist:item=2598420927&perks=2450788523,365154968
+dimwishlist:item=2598420927&perks=2946784966,365154968
 dimwishlist:item=2598420927&perks=2946784966,1015611457
-dimwishlist:item=2598420927&perks=1820235745,365154968
+dimwishlist:item=2598420927&perks=1570042021,365154968
+dimwishlist:item=2598420927&perks=1570042021,1015611457
 
 // Ignition code
-// Utility grenade. Maybe replaced with Liturgy
+// Hard Launch : Blinding, Spike, Implosion : Slideshot : Frenzy, Reverberation
+dimwishlist:item=2761869150&perks=981914802,3032599245,3161816588,563069569
+dimwishlist:item=2761869150&perks=981914802,3301904089,3161816588,563069569
+dimwishlist:item=2761869150&perks=981914802,3492396210,3161816588,563069569
 dimwishlist:item=2761869150&perks=981914802,3032599245,3161816588,4104185692
-dimwishlist:item=2761869150&perks=981914802,3301904089,2428997981,880644845
-dimwishlist:item=2761869150&perks=981914802,3492396210,2428997981,880644845
+dimwishlist:item=2761869150&perks=981914802,3301904089,3161816588,4104185692
+dimwishlist:item=2761869150&perks=981914802,3492396210,3161816588,4104185692
 
 //World pool
 
 // Live Fire
-// kinetic utility scout. Not very good but maybe?
-dimwishlist:item=3612142623&perks=2272927194,3700496672
+// Rimestealer : S2Loot
+//notes:Utility
+dimwishlist:item=3612142623&perks=1955165503,3700496672
+//notes:Add clear, but worse than Red Tape
 dimwishlist:item=3612142623&perks=1955165503,124408337
