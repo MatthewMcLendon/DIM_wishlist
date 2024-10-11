@@ -762,7 +762,7 @@ dimwishlist:item=1820994983&perks=1820235745,95528736
 
 // Ros Arago IV
 // Repulsor, Subsistence, Permeability, Rewind : Onslaught, UnderOver, Surrounded, Deconstruct
-// notes:Add clear
+//notes:Add clear
 dimwishlist:item=3583275737&perks=776531651,95528736
 dimwishlist:item=3583275737&perks=1820235745,95528736
 dimwishlist:item=3583275737&perks=2428997981,95528736
