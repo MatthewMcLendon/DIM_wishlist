@@ -1100,6 +1100,7 @@ dimwishlist:item=2598420927&perks=1570042021,1015611457
 
 // Ignition code
 // Hard Launch : Blinding, Spike, Implosion : Slideshot : Frenzy, Reverberation
+//notes:Damage
 dimwishlist:item=2761869150&perks=981914802,3032599245,3161816588,563069569
 dimwishlist:item=2761869150&perks=981914802,3301904089,3161816588,563069569
 dimwishlist:item=2761869150&perks=981914802,3492396210,3161816588,563069569
@@ -1115,3 +1116,42 @@ dimwishlist:item=2761869150&perks=981914802,3492396210,3161816588,4104185692
 dimwishlist:item=3612142623&perks=1955165503,3700496672
 //notes:Add clear, but worse than Red Tape
 dimwishlist:item=3612142623&perks=1955165503,124408337
+
+//Vesper's Host
+
+// VS Pryoelectric Propellant
+// Attrition, Eddy : JoltingFeedback
+//notes:Utility
+dimwishlist:item=4232480042&perks=243981275,3966416502
+//notes:Amplified add clear
+dimwishlist:item=4232480042&perks=684456054,3966416502
+dimwishlist:item=4232480042&perks=684456054,95528736
+
+// VS Gravitic Arrest
+// Repulsor, Unrelenting : Withering, Chain
+//notes:Utility
+dimwishlist:item=93061497&perks=776531651,1134488199
+//notes:Add clear
+imwishlist:item=93061497&perks=3108830275,2396489472
+
+// VS Velocity Baton
+// Repulsor, UnderOver, Unrelenting, Demo : Destabalizing, Attrition
+//notes:Add clear
+dimwishlist:item=1762785663&perks=776531651,2048641572
+dimwishlist:item=1762785663&perks=1870851715,2048641572
+dimwishlist:item=1762785663&perks=3108830275,2048641572
+dimwishlist:item=1762785663&perks=3523296417,2048641572
+dimwishlist:item=1762785663&perks=776531651,243981275
+dimwishlist:item=1762785663&perks=1870851715,243981275
+dimwishlist:item=1762785663&perks=3108830275,243981275
+dimwishlist:item=1762785663&perks=3523296417,243981275
+
+// VS Chill Inhibitor
+// Cascade, Arsenal : BnS, Surrounded, Explosive
+//notes:S-tier Damage
+dimwishlist:item=1762785662&perks=3751912585,3078487919
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+dimwishlist:item=1762785662&perks=3751912585,3708227201
+dimwishlist:item=1762785662&perks=3987942396,3708227201
+dimwishlist:item=1762785662&perks=3751912585,3194351027
+dimwishlist:item=1762785662&perks=3987942396,3194351027
