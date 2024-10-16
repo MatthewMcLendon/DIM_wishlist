@@ -215,6 +215,22 @@ dimwishlist:item=3867373351&perks=1799762209,3708227201
 //BGLs
 
 // S tier
+// VS Velocity Baton
+// Demo, Repulsor : Attrition, Destabalizing, BnS
+//notes:Add clear
+dimwishlist:item=1762785663&perks=3523296417,243981275
+dimwishlist:item=1762785663&perks=776531651,243981275
+dimwishlist:item=1762785663&perks=3523296417,2048641572
+dimwishlist:item=1762785663&perks=776531651,2048641572
+dimwishlist:item=1762785663&perks=3523296417,3078487919
+dimwishlist:item=1762785663&perks=776531651,3078487919
+// UnderOver, Unrelenting : Attrition, Destabalizing
+//notes:Utility
+dimwishlist:item=1762785663&perks=3108830275,243981275
+dimwishlist:item=1762785663&perks=1870851715,243981275
+dimwishlist:item=1762785663&perks=1870851715,2048641572
+dimwishlist:item=1762785663&perks=1870851715,243981275
+
 // The Mountaintop
 // ALH, Overflow, Impulse : Frenzy, Recombination, Vorpal
 //notes:S-tier Damage
@@ -476,23 +492,34 @@ dimwishlist:item=4233375372&perks=3523296417,2610012052
 //HGLs
 
 // S tier
+// VS Chill Inhibitor
+// Cascade, Arsenal (Attrition) : BnS, Surrounded, Explosive
+//notes:S-tier Damage
+dimwishlist:item=1762785662&perks=3751912585,3078487919
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+dimwishlist:item=1762785662&perks=3751912585,3708227201
+dimwishlist:item=1762785662&perks=3987942396,3708227201
+dimwishlist:item=1762785662&perks=3751912585,3194351027
+dimwishlist:item=1762785662&perks=3987942396,3194351027
+
+// A tier
 // Bitter/Sweet
 // Arsenal : BnS, Cascade, Explosive
-//notes:S-tier Damage
+//notes:A-tier Damage
 dimwishlist:item=2599338625&perks=3987942396,3751912585
 dimwishlist:item=2599338625&perks=3987942396,3194351027
 dimwishlist:item=2599338625&perks=3987942396,3078487919
 
 // Wicked Sister
 // Arsenal : BnS, Cascade, Explosive
-//notes:S-tier Damage
+//notes:A-tier Damage
 dimwishlist:item=2039776723&perks=3987942396,3078487919
 dimwishlist:item=2039776723&perks=3987942396,3194351027
 dimwishlist:item=2039776723&perks=3987942396,3751912585
 
 // Edge Transit
 // Assasin, Cascade, Chain : BnS, Explosive, Deconstruct
-//notes:S-tier Damage with Add clear option
+//notes:A-tier Damage with Add clear option
 dimwishlist:item=568611923&perks=2396489472,3078487919
 dimwishlist:item=568611923&perks=3751912585,3078487919
 dimwishlist:item=568611923&perks=968510818,3078487919
@@ -503,10 +530,10 @@ dimwishlist:item=568611923&perks=2396489472,3993379141
 dimwishlist:item=568611923&perks=3751912585,3993379141
 dimwishlist:item=568611923&perks=968510818,3993379141
 
-// A tier
+// B tier
 // Cataphract GL3
 // Assasin, ALH : BnS, Cascade
-//notes:A-tier Damage
+//notes:B-tier Damage
 dimwishlist:item=2738601016&perks=968510818,3078487919
 dimwishlist:item=2738601016&perks=3300816228,3078487919
 dimwishlist:item=2738601016&perks=968510818,3751912585
@@ -514,13 +541,13 @@ dimwishlist:item=2738601016&perks=3300816228,3751912585
 
 // Marsilion-C
 // Assasin : Cascade, Court 
-//notes:A-tier Damage
+//notes:B-tier Damage
 dimwishlist:item=867154247&perks=968510818,3751912585
 dimwishlist:item=867154247&perks=968510818,2888557110
 
 // Hullabaloo
 // Assasin, Field, Voltshot : Chain, Cascade, Tricorn
-//notes:A-tier Add clear with Damage option
+//notes:B-tier Add clear with Damage option
 dimwishlist:item=657927352&perks=968510818,2396489472
 dimwishlist:item=657927352&perks=2869569095,2396489472
 dimwishlist:item=657927352&perks=2173046394,2396489472
@@ -533,7 +560,7 @@ dimwishlist:item=657927352&perks=2173046394,2610012052
 
 // Acosmic
 // Air, Clown, Withering : BnS, Cascade, Explosive
-//notes:A-tier Utility or Damage
+//notes:B-tier Utility or Damage
 dimwishlist:item=425681240&perks=2284787283,3751912585
 dimwishlist:item=425681240&perks=1821614984,3751912585
 dimwishlist:item=425681240&perks=1134488199,3751912585
@@ -1133,25 +1160,3 @@ dimwishlist:item=4232480042&perks=684456054,95528736
 dimwishlist:item=93061497&perks=776531651,1134488199
 //notes:Add clear
 imwishlist:item=93061497&perks=3108830275,2396489472
-
-// VS Velocity Baton
-// Repulsor, UnderOver, Unrelenting, Demo : Destabalizing, Attrition
-//notes:Add clear
-dimwishlist:item=1762785663&perks=776531651,2048641572
-dimwishlist:item=1762785663&perks=1870851715,2048641572
-dimwishlist:item=1762785663&perks=3108830275,2048641572
-dimwishlist:item=1762785663&perks=3523296417,2048641572
-dimwishlist:item=1762785663&perks=776531651,243981275
-dimwishlist:item=1762785663&perks=1870851715,243981275
-dimwishlist:item=1762785663&perks=3108830275,243981275
-dimwishlist:item=1762785663&perks=3523296417,243981275
-
-// VS Chill Inhibitor
-// Cascade, Arsenal : BnS, Surrounded, Explosive
-//notes:S-tier Damage
-dimwishlist:item=1762785662&perks=3751912585,3078487919
-dimwishlist:item=1762785662&perks=3987942396,3078487919
-dimwishlist:item=1762785662&perks=3751912585,3708227201
-dimwishlist:item=1762785662&perks=3987942396,3708227201
-dimwishlist:item=1762785662&perks=3751912585,3194351027
-dimwishlist:item=1762785662&perks=3987942396,3194351027
