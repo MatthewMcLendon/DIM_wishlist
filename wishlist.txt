@@ -1155,8 +1155,9 @@ dimwishlist:item=4232480042&perks=684456054,3966416502
 dimwishlist:item=4232480042&perks=684456054,95528736
 
 // VS Gravitic Arrest
-// Repulsor, Unrelenting : Withering, Chain
+// Repulsor, Unrelenting, Demo : Withering, Chain
 //notes:Utility
 dimwishlist:item=93061497&perks=776531651,1134488199
 //notes:Add clear
 imwishlist:item=93061497&perks=3108830275,2396489472
+dimwishlist:item=93061497&perks=3523296417,2396489472
