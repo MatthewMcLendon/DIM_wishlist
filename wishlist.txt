@@ -1156,8 +1156,11 @@ dimwishlist:item=4232480042&perks=684456054,95528736
 
 // VS Gravitic Arrest
 // Repulsor, Unrelenting, Demo : Withering, Chain
-//notes:Utility
+//notes:Utility but Glacioclasm is probably better for Withering
 dimwishlist:item=93061497&perks=776531651,1134488199
 //notes:Add clear
 imwishlist:item=93061497&perks=3108830275,2396489472
 dimwishlist:item=93061497&perks=3523296417,2396489472
+// 2thePain : Closing
+//notes:PVP
+dimwishlist:item=93061497&perks=3938834702,1194056669
