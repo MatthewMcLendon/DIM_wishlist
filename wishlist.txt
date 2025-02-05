@@ -1268,6 +1268,69 @@ dimwishlist:item=2218569744&perks=247725512,2173046394
 dimwishlist:item=2218569744&perks=3700496672,2173046394
 dimwishlist:item=2218569744&perks=3523296417,2173046394
 
+// Sidearms
+//________________________________________________________
+
+// S tier
+//_________________________
+
+// Insurmountable
+// Repulsor, Attrition, Demo : Destabalizing, Surrounded
+//notes:S-tier add clear
+dimwishlist:item=414045521&perks=776531651,2048641572
+dimwishlist:item=414045521&perks=243981275,2048641572
+dimwishlist:item=414045521&perks=3523296417,2048641572
+dimwishlist:item=414045521&perks=776531651,3708227201
+dimwishlist:item=414045521&perks=243981275,3708227201
+dimwishlist:item=414045521&perks=3523296417,3708227201
+
+// Heliocentric QSc
+// HealClip, Demo : Incandescent, Frenzy, Surrounded
+//notes:S-tier add clear
+dimwishlist:item=3998080529&perks=3523296417,4293542123
+dimwishlist:item=3998080529&perks=3017780555,4293542123
+dimwishlist:item=3998080529&perks=3523296417,3708227201
+dimwishlist:item=3998080529&perks=3017780555,3708227201
+dimwishlist:item=3998080529&perks=3523296417,4104185692
+dimwishlist:item=3998080529&perks=3017780555,4104185692
+
+// A tier
+//_________________________
+
+// Division
+// EddyCurrent, Pugilist, Grave : Voltshot, Surrounded
+//notes:A-tier add clear
+dimwishlist:item=2992463569&perks=684456054,2173046394
+dimwishlist:item=2992463569&perks=691659142,2173046394
+dimwishlist:item=2992463569&perks=1631667848,2173046394
+dimwishlist:item=2992463569&perks=684456054,3708227201
+dimwishlist:item=2992463569&perks=691659142,3708227201
+dimwishlist:item=2992463569&perks=1631667848,3708227201
+
+// Anonymous Autumn
+// EddyCurrent, Demo : Voltshot
+//notes:A-tier add clear
+dimwishlist:item=1051949956&perks=684456054,2173046394
+dimwishlist:item=1051949956&perks=3523296417,2173046394
+
+// Brigand's Law
+// Threat, FeedingFrenzy, Pugilist : Voltshot, Swashbuckler
+//notes:A-tier add clear with melee option
+dimwishlist:item=1298815317&perks=4071163871,2173046394
+dimwishlist:item=1298815317&perks=2779035018,2173046394
+dimwishlist:item=1298815317&perks=691659142,2173046394
+dimwishlist:item=1298815317&perks=4071163871,4082225868
+dimwishlist:item=1298815317&perks=2779035018,4082225868
+dimwishlist:item=1298815317&perks=691659142,4082225868
+
+// Drang (Barouque)
+// Wellspring, DisruptionBreak : Incandescent, Swashbuckler
+//notes:A-tier add clear
+dimwishlist:item=502356570&perks=3592538738,4293542123
+dimwishlist:item=502356570&perks=1683379515,4293542123
+dimwishlist:item=502356570&perks=3592538738,4082225868
+dimwishlist:item=502356570&perks=1683379515,4082225868
+
 //Armor
 //________________________________________________________
 
