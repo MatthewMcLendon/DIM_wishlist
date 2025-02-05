@@ -1014,6 +1014,47 @@ dimwishlist:item=4232480042&perks=684456054,3966416502
 dimwishlist:item=424291879&perks=776531651,2048641572
 dimwishlist:item=424291879&perks=2848615171,2048641572
 
+// Bows
+//________________________________________________________
+
+// A tier
+//_________________________
+
+// Accrued Redemption
+// ArchersTempo : Kinetic, Firefly
+//notes:A-tier add clear
+dimwishlist:item=3621336854&perks=201365942,3824105627
+dimwishlist:item=3621336854&perks=201365942,3891536761
+
+// Anamnesis
+// Repulsor, Dragonfly, ArchersTempo : Destabalizing, Demoralize, Explosive
+//notes:A-tier add clear
+dimwishlist:item=3417731926&perks=201365942,2048641572
+dimwishlist:item=3417731926&perks=2848615171,2048641572
+dimwishlist:item=3417731926&perks=776531651,2048641572
+dimwishlist:item=3417731926&perks=201365942,1464081238
+dimwishlist:item=3417731926&perks=2848615171,1464081238
+dimwishlist:item=3417731926&perks=776531651,1464081238
+dimwishlist:item=3417731926&perks=201365942,3365897133
+dimwishlist:item=3417731926&perks=2848615171,3365897133
+dimwishlist:item=3417731926&perks=776531651,3365897133
+
+// Tyranny of Heaven
+// Dragonfly, Explosive, ArchersTempo : Incandescent, One4All
+//notes:A-tier add clear
+dimwishlist:item=3388655311&perks=2848615171,4293542123
+dimwishlist:item=3388655311&perks=3365897133,4293542123
+dimwishlist:item=3388655311&perks=201365942,4293542123
+dimwishlist:item=3388655311&perks=2848615171,4049631843
+dimwishlist:item=3388655311&perks=3365897133,4049631843
+dimwishlist:item=3388655311&perks=201365942,4049631843
+
+// Fortunate Star
+// Repulsor, ArchersTempo : Destabalizing
+//notes:A-tier add clear
+dimwishlist:item=2326578623&perks=201365942,2048641572
+dimwishlist:item=2326578623&perks=776531651,2048641572
+
 
 //Armor
 //________________________________________________________
