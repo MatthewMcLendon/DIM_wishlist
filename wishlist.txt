@@ -1192,6 +1192,82 @@ dimwishlist:item=2372514508&perks=3700496672,4049631843
 dimwishlist:item=2372514508&perks=3891536761,4104185692
 dimwishlist:item=2372514508&perks=3700496672,4104185692
 
+// Scout rifles
+//________________________________________________________
+
+// S tier
+//_________________________
+
+// Vouchsafe 
+// Repulsor, RapidHit : Destabalizing, Dragonfly, Explosive
+//notes:S-tier add clear
+dimwishlist:item=355922321&perks=247725512,2048641572
+dimwishlist:item=355922321&perks=776531651,2048641572
+dimwishlist:item=355922321&perks=247725512,3038247973
+dimwishlist:item=355922321&perks=776531651,3038247973
+dimwishlist:item=355922321&perks=247725512,2848615171
+dimwishlist:item=355922321&perks=776531651,2848615171
+
+// Timeworn Wayfarer
+// HealClip, S2Loot, DualLoader : Incandescent
+//notes:S-tier add clear
+dimwishlist:item=1058098236&perks=3017780555,4293542123
+dimwishlist:item=1058098236&perks=3700496672,4293542123
+dimwishlist:item=1058098236&perks=25606670,4293542123
+
+// A tier
+//_________________________
+
+// Hung Jury SR4 (Brave)
+// Kinetic, S2Loot, EnlightenedAction : Firefly, Explosive, One4All
+//notes:A-tier add clear
+dimwishlist:item=1453235079&perks=3828510309,3824105627
+dimwishlist:item=1453235079&perks=3700496672,3824105627
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3828510309,3038247973
+dimwishlist:item=1453235079&perks=3700496672,3038247973
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+dimwishlist:item=1453235079&perks=3828510309,4049631843
+dimwishlist:item=1453235079&perks=3700496672,4049631843
+dimwishlist:item=1453235079&perks=3891536761,4049631843
+
+// Vision of Confluence
+// Incandescent, HealClip, Rewind : Firefly, Explosive, Frenzy
+//notes:A-tier add clear
+dimwishlist:item=3444688218&perks=4293542123,3824105627
+dimwishlist:item=3444688218&perks=3017780555,3824105627
+dimwishlist:item=3444688218&perks=3418782618,3824105627
+dimwishlist:item=3444688218&perks=4293542123,3038247973
+dimwishlist:item=3444688218&perks=3017780555,3038247973
+dimwishlist:item=3444688218&perks=3418782618,3038247973
+dimwishlist:item=3444688218&perks=4293542123,4104185692
+dimwishlist:item=3444688218&perks=3017780555,4104185692
+dimwishlist:item=3444688218&perks=3418782618,4104185692
+
+//Randy's Throwing Knife
+// RapidHit, Discord : Kinetic
+//notes:A-tier add clear
+dimwishlist:item=3292795429&perks=247725512,3891536761
+dimwishlist:item=3292795429&perks=3978468247,3891536761
+
+// Patron of Lost Causes
+// RapidHit, Strategist : Kinetic, Explosive
+//notes:A-tier add clear
+dimwishlist:item=2249996761&perks=3978468247,3891536761
+dimwishlist:item=2249996761&perks=880644845,3891536761
+dimwishlist:item=2249996761&perks=3978468247,3038247973
+dimwishlist:item=2249996761&perks=880644845,3038247973
+
+// Tarnished Mettle
+// RapidHit, S2Loot, Demo : Voltshot, Explosive
+//notes:A-tier add clear with utility option
+dimwishlist:item=2218569744&perks=247725512,3038247973
+dimwishlist:item=2218569744&perks=3700496672,3038247973
+dimwishlist:item=2218569744&perks=3523296417,3038247973
+dimwishlist:item=2218569744&perks=247725512,2173046394
+dimwishlist:item=2218569744&perks=3700496672,2173046394
+dimwishlist:item=2218569744&perks=3523296417,2173046394
+
 //Armor
 //________________________________________________________
 
