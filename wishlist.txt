@@ -1331,6 +1331,52 @@ dimwishlist:item=502356570&perks=1683379515,4293542123
 dimwishlist:item=502356570&perks=3592538738,4082225868
 dimwishlist:item=502356570&perks=1683379515,4082225868
 
+// SMGs
+//________________________________________________________
+
+// S tier
+//_________________________
+
+// The Recluse
+// Repulsor, EnlightenedAction : Destabalizing, Surrounded
+//notes:S-tier add clear
+dimwishlist:item=1050806815&perks=776531651,2048641572
+dimwishlist:item=1050806815&perks=3828510309,2048641572
+dimwishlist:item=1050806815&perks=776531651,3708227201
+dimwishlist:item=1050806815&perks=3828510309,3708227201
+
+// The Title
+// Repulsor, Attrition, Threat : Destabalizing, Surrounded
+//notes:S-tier add clear
+dimwishlist:item=655712834&perks=776531651,2048641572
+dimwishlist:item=655712834&perks=243981275,2048641572
+dimwishlist:item=655712834&perks=4071163871,2048641572
+dimwishlist:item=655712834&perks=776531651,3708227201
+dimwishlist:item=655712834&perks=243981275,3708227201
+dimwishlist:item=655712834&perks=4071163871,3708227201
+
+// A tier
+//_________________________
+
+// Multimach CCX
+// Attrition : Kinetic, Frenzy
+//notes:A-tier add clear
+dimwishlist:item=3211624072&perks=243981275,3891536761
+dimwishlist:item=3211624072&perks=243981275,4104185692
+
+// Shayura's Wrath
+// Repulsor, Discord : Destabalizing
+//notes:A-tier add clear
+dimwishlist:item=2022294213&perks=776531651,2048641572
+dimwishlist:item=2022294213&perks=3978468247,2048641572
+
+// Noxious Vetiver
+// Attrition, LooseChange, Pugilist : JoltingFeedback
+//notes:A-tier add clear
+dimwishlist:item=825495813&perks=243981275,3966416502
+dimwishlist:item=825495813&perks=1119449540,3966416502
+dimwishlist:item=825495813&perks=691659142,3966416502
+
 //Armor
 //________________________________________________________
 
