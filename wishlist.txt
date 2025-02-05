@@ -4,6 +4,16 @@
 // S tier
 //_________________________
 
+// Perfect Paradox
+// Threat, Field, Pugilist : One-Two, Trench, Vorpal
+//notes:S-tier Damage with One-Two punch focus
+dimwishlist:item=1298672084&perks=4071163871,2679249093
+dimwishlist:item=1298672084&perks=691659142,2679249093
+dimwishlist:item=1298672084&perks=4071163871,2360754333
+dimwishlist:item=1298672084&perks=691659142,2360754333
+dimwishlist:item=1298672084&perks=4071163871,1546637391
+dimwishlist:item=1298672084&perks=691659142,1546637391
+
 // IKELOS_SG_V1.0.3
 // Grave, Threat, Pugilist : Surrounded, Cascade, One-Two
 //notes:S-tier Damage
@@ -17,16 +27,6 @@ dimwishlist:item=1168625549&perks=1631667848,2679249093
 dimwishlist:item=1168625549&perks=4071163871,2679249093
 dimwishlist:item=1168625549&perks=691659142,2679249093
 
-// Perfect Paradox
-// Threat, Field, Pugilist : One-Two, Trench, Vorpal
-//notes:S-tier Damage with One-Two punch focus
-dimwishlist:item=1298672084&perks=4071163871,2679249093
-dimwishlist:item=1298672084&perks=691659142,2679249093
-dimwishlist:item=1298672084&perks=4071163871,2360754333
-dimwishlist:item=1298672084&perks=691659142,2360754333
-dimwishlist:item=1298672084&perks=4071163871,1546637391
-dimwishlist:item=1298672084&perks=691659142,1546637391
-
 // Until Its Return
 // ALH, Overflow : Cascade, Surrounded, Vorpal
 //notes:S-tier Damage
@@ -37,24 +37,15 @@ dimwishlist:item=2883484461&perks=3643424744,3708227201
 dimwishlist:item=2883484461&perks=3300816228,1546637391
 dimwishlist:item=2883484461&perks=3643424744,1546637391
 
-// Arcane Embrace
-// FTC, Air Trigger, Grave : PI, Surrounded, Voltshot
-//notes:S-tier Damage
-dimwishlist:item=3649985571&perks=1421772400,555281244
-dimwishlist:item=3649985571&perks=1354429876,555281244
-dimwishlist:item=3649985571&perks=1631667848,555281244
-dimwishlist:item=3649985571&perks=4071163871,555281244
-dimwishlist:item=3649985571&perks=1421772400,3708227201
-dimwishlist:item=3649985571&perks=1354429876,3708227201
-dimwishlist:item=3649985571&perks=1631667848,3708227201
-dimwishlist:item=3649985571&perks=4071163871,3708227201
-dimwishlist:item=3649985571&perks=1421772400,2173046394
-dimwishlist:item=3649985571&perks=1354429876,2173046394
-dimwishlist:item=3649985571&perks=1631667848,2173046394
-dimwishlist:item=3649985571&perks=4071163871,2173046394
 
 // A tier
 //_________________________
+
+// Imperial Decree
+// ALH : Trench, Surrounded
+//notes:A-tier Damage
+dimwishlist:item=318443586&perks=3300816228,2360754333
+dimwishlist:item=318443586&perks=3300816228,3708227201
 
 // Dead weight
 // Grave, ALH, LFG : One-Two, Frenzy, Surrounded
@@ -69,11 +60,21 @@ dimwishlist:item=3738678140&perks=1631667848,3708227201
 dimwishlist:item=3738678140&perks=3300816228,3708227201
 dimwishlist:item=3738678140&perks=1556840489,3708227201
 
-// Imperial Decree
-// ALH : Trench, Surrounded
+// Arcane Embrace
+// FTC, Air Trigger, Grave : PI, Surrounded, Voltshot
 //notes:A-tier Damage
-dimwishlist:item=318443586&perks=3300816228,2360754333
-dimwishlist:item=318443586&perks=3300816228,3708227201
+dimwishlist:item=3649985571&perks=1421772400,555281244
+dimwishlist:item=3649985571&perks=1354429876,555281244
+dimwishlist:item=3649985571&perks=1631667848,555281244
+dimwishlist:item=3649985571&perks=4071163871,555281244
+dimwishlist:item=3649985571&perks=1421772400,3708227201
+dimwishlist:item=3649985571&perks=1354429876,3708227201
+dimwishlist:item=3649985571&perks=1631667848,3708227201
+dimwishlist:item=3649985571&perks=4071163871,3708227201
+dimwishlist:item=3649985571&perks=1421772400,2173046394
+dimwishlist:item=3649985571&perks=1354429876,2173046394
+dimwishlist:item=3649985571&perks=1631667848,2173046394
+dimwishlist:item=3649985571&perks=4071163871,2173046394
 
 // Wastelander M5
 // LFG, Pugilist : One-Two, Vorpal
@@ -82,16 +83,6 @@ dimwishlist:item=1679868061&perks=1556840489,2679249093
 dimwishlist:item=1679868061&perks=691659142,2679249093
 dimwishlist:item=1679868061&perks=1556840489,1546637391
 dimwishlist:item=1679868061&perks=691659142,1546637391
-
-// Someday
-// LFG, Dual : Recombination, Cascade, Vorpal
-//notes:A-tier Damage
-dimwishlist:item=3232203524&perks=1556840489,469285294
-dimwishlist:item=3232203524&perks=25606670,469285294
-dimwishlist:item=3232203524&perks=1556840489,3751912585
-dimwishlist:item=3232203524&perks=25606670,3751912585
-dimwishlist:item=3232203524&perks=1556840489,1546637391
-dimwishlist:item=3232203524&perks=25606670,1546637391
 
 // Basso Ostinato
 // Grave, LFG : One-Two
@@ -104,6 +95,16 @@ dimwishlist:item=2573900604&perks=1556840489,2679249093
 
 // S tier
 //_________________________
+
+// Praedyth's Revenge
+// Fourth, Kinetic, Rewind : BnS, ElHone
+//notes:S-tier Damage
+dimwishlist:item=3844610113&perks=1354429876,3078487919
+dimwishlist:item=3844610113&perks=3891536761,3078487919
+dimwishlist:item=3844610113&perks=3418782618,3078487919
+dimwishlist:item=3844610113&perks=1354429876,1089671869
+dimwishlist:item=3844610113&perks=3891536761,1089671869
+dimwishlist:item=3844610113&perks=3418782618,1089671869
 
 // The Supremacy
 // Rewind, LFG, Discord : Kinetic Tremors, BnS, Fourth
@@ -118,23 +119,18 @@ dimwishlist:item=2884596447&perks=3418782618,1354429876
 dimwishlist:item=2884596447&perks=1556840489,1354429876
 dimwishlist:item=2884596447&perks=3978468247,1354429876
 
-// Veleda-F
-// Air, Slickdraw : Withering
-//notes:S-tier Utility
-dimwishlist:item=4200122994&perks=1421772400,1134488199
-dimwishlist:item=4200122994&perks=1821614984,1134488199
-
-// Sovereignty
-// Demo, Explosive : Withering
-//notes:S-tier Utility
-dimwishlist:item=3818198556&perks=3038247973,1134488199
-dimwishlist:item=3818198556&perks=3523296417,1134488199
-// Discord : Harmony
-//notes:Add clear
-dimwishlist:item=3818198556&perks=3978468247,438098033
-
 // A tier
 //_________________________
+
+// Keen Thistle
+// Arsenal, Incandescent, Triple : BnS, Discord, Fourth
+//notes:A-tier Damage with add clear option
+dimwishlist:item=1893967086&perks=4293542123,3078487919
+dimwishlist:item=1893967086&perks=3987942396,3078487919
+dimwishlist:item=1893967086&perks=3400784728,3078487919
+dimwishlist:item=1893967086&perks=4293542123,1354429876
+dimwishlist:item=1893967086&perks=3987942396,1354429876
+dimwishlist:item=1893967086&perks=3400784728,1354429876
 
 // Succession (Brave)
 // Reconstruction, Demo, Discord : Recombination, Vorpal, Redirection
@@ -164,6 +160,21 @@ dimwishlist:item=2673925403&perks=3700496672,438098033
 dimwishlist:item=2673925403&perks=1354429876,438098033
 dimwishlist:item=2673925403&perks=3700496672,1771339417
 dimwishlist:item=2673925403&perks=1354429876,1771339417
+
+// Veleda-F
+// Air, Slickdraw : Withering
+//notes:A-tier Utility
+dimwishlist:item=4200122994&perks=1421772400,1134488199
+dimwishlist:item=4200122994&perks=1821614984,1134488199
+
+// Sovereignty
+// Demo, Explosive : Withering
+//notes:A-tier Utility
+dimwishlist:item=3818198556&perks=3038247973,1134488199
+dimwishlist:item=3818198556&perks=3523296417,1134488199
+// Discord : Harmony
+//notes:Add clear
+dimwishlist:item=3818198556&perks=3978468247,438098033
 
 //Fusions
 //________________________________________________________
@@ -228,6 +239,19 @@ dimwishlist:item=1183116657&perks=1421772400,1134488199
 //notes:A-tier Damage
 dimwishlist:item=3591141932&perks=3418782618,2594592626
 
+// Afterlight
+// Discord, Lead, Grave : Reservoir, Destabalizing, Vorpal
+//notes:A-tier add clear with damage options
+dimwishlist:item=3953163559&perks=1631667848,1427256713
+dimwishlist:item=3953163559&perks=3978468247,1427256713
+dimwishlist:item=3953163559&perks=1556840489,1427256713
+dimwishlist:item=3953163559&perks=1631667848,2048641572
+dimwishlist:item=3953163559&perks=3978468247,2048641572
+dimwishlist:item=3953163559&perks=1556840489,2048641572
+dimwishlist:item=3953163559&perks=1631667848,1546637391
+dimwishlist:item=3953163559&perks=3978468247,1546637391
+dimwishlist:item=3953163559&perks=1556840489,1546637391
+
 // PLUG ONE.1
 // Reconstruction, Slideways : Reservoir, ConBurst, Voltshot
 //notes:A-tier Add clear or Damage
@@ -253,7 +277,7 @@ dimwishlist:item=3867373351&perks=1799762209,3708227201
 
 // VS Velocity Baton
 // Demo, Repulsor : Attrition, Destabalizing, BnS
-//notes:Add clear
+//notes:S-tier Add clear
 dimwishlist:item=1762785663&perks=3523296417,243981275
 dimwishlist:item=1762785663&perks=776531651,243981275
 dimwishlist:item=1762785663&perks=3523296417,2048641572
@@ -261,7 +285,7 @@ dimwishlist:item=1762785663&perks=776531651,2048641572
 dimwishlist:item=1762785663&perks=3523296417,3078487919
 dimwishlist:item=1762785663&perks=776531651,3078487919
 // UnderOver, Unrelenting : Attrition, Destabalizing
-//notes:Utility
+//notes:S-tier Utility
 dimwishlist:item=1762785663&perks=3108830275,243981275
 dimwishlist:item=1762785663&perks=1870851715,243981275
 dimwishlist:item=1762785663&perks=1870851715,2048641572
@@ -280,6 +304,19 @@ dimwishlist:item=568611922&perks=3300816228,1546637391
 dimwishlist:item=568611922&perks=3643424744,1546637391
 dimwishlist:item=568611922&perks=951095735,1546637391
 
+// Psychopomp
+// Assasin, Arsenal, Pugilist : RollingStorm, Demo, Frenzy
+//notes:S-tier add clear with utility options
+dimwishlist:item=4028298892&perks=2010801679,3218042543
+dimwishlist:item=4028298892&perks=3987942396,3218042543
+dimwishlist:item=4028298892&perks=691659142,3218042543
+dimwishlist:item=4028298892&perks=2010801679,3523296417
+dimwishlist:item=4028298892&perks=3987942396,3523296417
+dimwishlist:item=4028298892&perks=691659142,3523296417
+dimwishlist:item=4028298892&perks=2010801679,4104185692
+dimwishlist:item=4028298892&perks=3987942396,4104185692
+dimwishlist:item=4028298892&perks=691659142,4104185692
+
 // Lost Signal
 // ALH, Lead : Vorpal, Demo, One4All
 //notes:S-tier Add clear with Damage potential
@@ -290,9 +327,12 @@ dimwishlist:item=1197771438&perks=1556840489,3523296417
 dimwishlist:item=1197771438&perks=3300816228,4049631843
 dimwishlist:item=1197771438&perks=1556840489,4049631843
 
+// A tier
+//_________________________
+
 // Liturgy
 // Slideways, Arsenal : Chill, LFG, Chain 
-//notes:S-tier Damage with add clear potential
+//notes:A-tier Damage with add clear potential
 dimwishlist:item=2599338624&perks=2039302152,2978966579
 dimwishlist:item=2599338624&perks=3987942396,2978966579
 dimwishlist:item=2599338624&perks=1955165503,2978966579
@@ -302,9 +342,6 @@ dimwishlist:item=2599338624&perks=1955165503,1556840489
 dimwishlist:item=2599338624&perks=2039302152,2396489472
 dimwishlist:item=2599338624&perks=3987942396,2396489472
 dimwishlist:item=2599338624&perks=1955165503,2396489472
-
-// A tier
-//_________________________
 
 // Martyr's Retribution
 // Heal, Demo, ALH : Incandescent, Kill
@@ -328,15 +365,6 @@ dimwishlist:item=568611921&perks=3108830275,2109543898
 dimwishlist:item=568611921&perks=2010801679,3592538738
 dimwishlist:item=568611921&perks=3523296417,3592538738
 dimwishlist:item=568611921&perks=3108830275,3592538738
-
-// B tier
-//_________________________
-
-// Wild Style
-// Reconstruction : BnS, Vorpal
-//notes:B-Tier Damage
-dimwishlist:item=1332123064&perks=981914802,3301904089,1523832109,3078487919
-dimwishlist:item=1332123064&perks=981914802,3492396210,1523832109,1546637391
 
 //Glavies
 //________________________________________________________
@@ -374,6 +402,29 @@ dimwishlist:item=254636484&perks=1556840489,4104185692
 // A tier
 //_________________________
 
+// Backfang
+// Impulse, Grave, Lead : Surrounded, close2melee, JoltingFeedback
+//notes:A-tier Damage with utility option
+dimwishlist:item=267672635&perks=951095735,3966416502
+dimwishlist:item=267672635&perks=1631667848,3966416502
+dimwishlist:item=267672635&perks=1556840489,3966416502
+dimwishlist:item=267672635&perks=951095735,1782407750
+dimwishlist:item=267672635&perks=1631667848,1782407750
+dimwishlist:item=267672635&perks=1556840489,1782407750
+dimwishlist:item=267672635&perks=951095735,3708227201
+dimwishlist:item=267672635&perks=1631667848,3708227201
+dimwishlist:item=267672635&perks=1556840489,3708227201
+
+// Refusal of the Call
+// Discord, Impulse, Slice : close2melee, MeleeMomentum
+//notes:A-tier add clear with utility option
+dimwishlist:item=2671849376&perks=3978468247,3773585912
+dimwishlist:item=2671849376&perks=951095735,3773585912
+dimwishlist:item=2671849376&perks=923806249,3773585912
+dimwishlist:item=2671849376&perks=3978468247,1782407750
+dimwishlist:item=2671849376&perks=951095735,1782407750
+dimwishlist:item=2671849376&perks=923806249,1782407750
+
 // Albedo Wing
 // Air, Grave : LFG, Demo, close2melee
 //notes:A-tier Add clear
@@ -408,20 +459,30 @@ dimwishlist:item=1886840007&perks=776531651,3523296417
 dimwishlist:item=1886840007&perks=3700496672,2109543898
 dimwishlist:item=1886840007&perks=776531651,2109543898
 
+// A tier
+//_________________________
+
 // Retraced Path
 // S2Loot : Demo, Frenzy, Incandescent
-//notes:S-tier Utility
+//notes:A-tier Utility
 dimwishlist:item=548958835&perks=3700496672,3523296417
 dimwishlist:item=548958835&perks=3700496672,4104185692
 dimwishlist:item=548958835&perks=3700496672,4293542123
-
-// A tier
-//_________________________
 
 // Path of Least Resistance
 // S2Loot : Voltshot
 //notes:A-tier Utility
 dimwishlist:item=2827764482&perks=3700496672,2173046394
+
+// Warlord's Spear
+// Rewind, LooseChange : DetonatorBeam, JoltingFeedback, Desperate
+//notes:A-tier Utility with add clear option
+dimwishlist:item=1968711238&perks=3418782618,2109543898
+dimwishlist:item=1968711238&perks=1119449540,2109543898
+dimwishlist:item=1968711238&perks=3418782618,4198902903
+dimwishlist:item=1968711238&perks=1119449540,4198902903
+dimwishlist:item=1968711238&perks=3418782618,3966416502
+dimwishlist:item=1968711238&perks=1119449540,3966416502
 
 //Rocket Sidearms
 //________________________________________________________
@@ -433,12 +494,22 @@ dimwishlist:item=2827764482&perks=3700496672,2173046394
 //notes:S-tier Add clear
 dimwishlist:item=2198166292&perks=3017780555,4293542123
 
-//A tier
-//_________________________
+// Lotus-eater
+// Repulsor, Reconstruction, S2Loot : Destabalizing, Withering, One4All
+//notes:S-tier add clear with utility option
+dimwishlist:item=3922217119&perks=776531651,2048641572
+dimwishlist:item=3922217119&perks=1523832109,2048641572
+dimwishlist:item=3922217119&perks=3700496672,2048641572
+dimwishlist:item=3922217119&perks=776531651,1134488199
+dimwishlist:item=3922217119&perks=1523832109,1134488199
+dimwishlist:item=3922217119&perks=3700496672,1134488199
+dimwishlist:item=3922217119&perks=776531651,4049631843
+dimwishlist:item=3922217119&perks=1523832109,4049631843
+dimwishlist:item=3922217119&perks=3700496672,4049631843
 
 // Tinasha's Mastery
 // Air, Reverberation, Deconstruct : Chil, Desperate, Surrounded
-//notes:A-tier Utility or Add clear
+//notes:S-tier Utility or Add clear
 dimwishlist:item=480368036&perks=1421772400,2978966579
 dimwishlist:item=480368036&perks=563069569,2978966579
 dimwishlist:item=480368036&perks=3993379141,2978966579
@@ -448,6 +519,9 @@ dimwishlist:item=480368036&perks=3993379141,2109543898
 dimwishlist:item=480368036&perks=1421772400,3708227201
 dimwishlist:item=480368036&perks=563069569,3708227201
 dimwishlist:item=480368036&perks=3993379141,3708227201
+
+//A tier
+//_________________________
 
 // Indebted Kindness
 // Impulse, LFG : Voltshot, Surrounded, Adagio
@@ -481,6 +555,19 @@ dimwishlist:item=3947966653&perks=3523296417,4049631843
 // S tier
 //_________________________
 
+// Corrective Measure
+// Destabalizing, Firefly, Demo : One4All, Demoralize, KillingTally
+//notes:S-tier add clear
+dimwishlist:item=3654744298&perks=2048641572,1464081238
+dimwishlist:item=3654744298&perks=3824105627,1464081238
+dimwishlist:item=3654744298&perks=3523296417,1464081238
+dimwishlist:item=3654744298&perks=2048641572,4049631843
+dimwishlist:item=3654744298&perks=3824105627,4049631843
+dimwishlist:item=3654744298&perks=3523296417,4049631843
+dimwishlist:item=3654744298&perks=2048641572,557221067
+dimwishlist:item=3654744298&perks=3824105627,557221067
+dimwishlist:item=3654744298&perks=3523296417,557221067
+
 // Pro Memoria
 // Demo, Reconstruction, Hatchling : Desperate, BnS, Dragonfly
 //notes:S-tier Add clear 
@@ -493,6 +580,26 @@ dimwishlist:item=3605603507&perks=831391274,3078487919
 dimwishlist:item=3605603507&perks=3523296417,2848615171
 dimwishlist:item=3605603507&perks=1523832109,2848615171
 dimwishlist:item=3605603507&perks=831391274,2848615171
+
+// Hammerhead (Brave)
+// Rewind, Fourth, Rampage : KillingTally, Onslaught
+//notes:S-tier Add clear
+dimwishlist:item=211732170&perks=3418782618,557221067
+dimwishlist:item=211732170&perks=1354429876,557221067
+dimwishlist:item=211732170&perks=3425386926,557221067
+dimwishlist:item=211732170&perks=3418782618,95528736
+dimwishlist:item=211732170&perks=1354429876,95528736
+dimwishlist:item=211732170&perks=3425386926,95528736
+
+// Watchful Eye
+// Overflow, Field : JoltingFeedback, KillingTally, RollingStorm
+//notes:S-tier add clear
+dimwishlist:item=1757177186&perks=3643424744,3966416502
+dimwishlist:item=1757177186&perks=2869569095,3966416502
+dimwishlist:item=1757177186&perks=3643424744,557221067
+dimwishlist:item=1757177186&perks=2869569095,557221067
+dimwishlist:item=1757177186&perks=3643424744,3218042543
+dimwishlist:item=1757177186&perks=2869569095,3218042543
 
 // A tier
 //_________________________
@@ -520,16 +627,6 @@ dimwishlist:item=2896109856&perks=1421772400,557221067
 dimwishlist:item=2896109856&perks=1955165503,557221067
 dimwishlist:item=2896109856&perks=1354429876,557221067
 
-// Hammerhead
-// Rewind, Fourth, Rampage : KillingTally, Onslaught
-//notes:A-tier Add clear
-dimwishlist:item=211732170&perks=3418782618,557221067
-dimwishlist:item=211732170&perks=1354429876,557221067
-dimwishlist:item=211732170&perks=3425386926,557221067
-dimwishlist:item=211732170&perks=3418782618,95528736
-dimwishlist:item=211732170&perks=1354429876,95528736
-dimwishlist:item=211732170&perks=3425386926,95528736
-
 // Speleologist
 // Assasin, Heal, Deconstruct : Incandescent, KillingTally, One4All
 //notes:A-tier Add clear
@@ -542,6 +639,19 @@ dimwishlist:item=412251536&perks=1164602481,557221067
 dimwishlist:item=412251536&perks=968510818,4049631843
 dimwishlist:item=412251536&perks=3017780555,4049631843
 dimwishlist:item=412251536&perks=1164602481,4049631843
+
+// Qua Xaphan V
+// Field, Triple, Slideways : Destabalizing, AdrenalineJunkie, Dragonfly
+//notes:A-tier add clear
+dimwishlist:item=1975125963&perks=2869569095,2048641572
+dimwishlist:item=1975125963&perks=2039302152,2048641572
+dimwishlist:item=1975125963&perks=3400784728,2048641572
+dimwishlist:item=1975125963&perks=2869569095,11612903
+dimwishlist:item=1975125963&perks=2039302152,11612903
+dimwishlist:item=1975125963&perks=3400784728,11612903
+dimwishlist:item=1975125963&perks=2869569095,2848615171
+dimwishlist:item=1975125963&perks=2039302152,2848615171
+dimwishlist:item=1975125963&perks=3400784728,2848615171
 
 // Marcato-45
 // Demo : Onslaught, Tricorn, Hatchling
@@ -596,49 +706,6 @@ dimwishlist:item=568611923&perks=2396489472,3993379141
 dimwishlist:item=568611923&perks=3751912585,3993379141
 dimwishlist:item=568611923&perks=968510818,3993379141
 
-// B tier
-//_________________________
-
-// Cataphract GL3
-// Assasin, ALH : BnS, Cascade
-//notes:B-tier Damage
-dimwishlist:item=2738601016&perks=968510818,3078487919
-dimwishlist:item=2738601016&perks=3300816228,3078487919
-dimwishlist:item=2738601016&perks=968510818,3751912585
-dimwishlist:item=2738601016&perks=3300816228,3751912585
-
-// Marsilion-C
-// Assasin : Cascade, Court 
-//notes:B-tier Damage
-dimwishlist:item=867154247&perks=968510818,3751912585
-dimwishlist:item=867154247&perks=968510818,2888557110
-
-// Hullabaloo
-// Assasin, Field, Voltshot : Chain, Cascade, Tricorn
-//notes:B-tier Add clear with Damage option
-dimwishlist:item=657927352&perks=968510818,2396489472
-dimwishlist:item=657927352&perks=2869569095,2396489472
-dimwishlist:item=657927352&perks=2173046394,2396489472
-dimwishlist:item=657927352&perks=968510818,3751912585
-dimwishlist:item=657927352&perks=2869569095,3751912585
-dimwishlist:item=657927352&perks=2173046394,3751912585
-dimwishlist:item=657927352&perks=968510818,2610012052
-dimwishlist:item=657927352&perks=2869569095,2610012052
-dimwishlist:item=657927352&perks=2173046394,2610012052
-
-// Acosmic
-// Air, Clown, Withering : BnS, Cascade, Explosive
-//notes:B-tier Utility or Damage
-dimwishlist:item=425681240&perks=2284787283,3751912585
-dimwishlist:item=425681240&perks=1821614984,3751912585
-dimwishlist:item=425681240&perks=1134488199,3751912585
-dimwishlist:item=425681240&perks=2284787283,3194351027
-dimwishlist:item=425681240&perks=1821614984,3194351027
-dimwishlist:item=425681240&perks=1134488199,3194351027
-dimwishlist:item=425681240&perks=2284787283,3078487919
-dimwishlist:item=425681240&perks=1821614984,3078487919
-dimwishlist:item=425681240&perks=1134488199,3078487919
-
 //Swords
 //________________________________________________________
 
@@ -675,6 +742,12 @@ dimwishlist:item=2889501828&perks=2077819806,3523296417
 // A tier
 //_________________________
 
+// Abyssal Edge
+// Relentless : ElementalHoning, Surrounded
+//notes:A-tier damage
+dimwishlist:item=547165496&perks=1749209109,1089671869
+dimwishlist:item=547165496&perks=1749209109,3708227201
+
 // Ill Omen
 // Relentless, Attrition : Whirlwind, Surrounded
 //notes:A-tier Damage with Utility option
@@ -683,21 +756,23 @@ dimwishlist:item=3794274730&perks=243981275,3913600130
 dimwishlist:item=3794274730&perks=1749209109,3708227201
 dimwishlist:item=3794274730&perks=243981275,3708227201
 
+// Zephyr
+// Relentless, Attrition, Rimestealer : Surrounded, Whirlwind, ColdSteel
+//notes:A-tier Damage with utility option
+dimwishlist:item=601948197&perks=1749209109,3650930298
+dimwishlist:item=601948197&perks=243981275,3650930298
+dimwishlist:item=601948197&perks=1955165503,3650930298
+dimwishlist:item=601948197&perks=1749209109,3708227201
+dimwishlist:item=601948197&perks=243981275,3708227201
+dimwishlist:item=601948197&perks=1955165503,3708227201
+dimwishlist:item=601948197&perks=1749209109,3913600130
+dimwishlist:item=601948197&perks=243981275,3913600130
+dimwishlist:item=601948197&perks=1955165503,3913600130
+
 // Geodetic HSM
 // Relentless, Whirlwind
 //notes:A-tier Damage
 dimwishlist:item=3637669759&perks=1749209109,3913600130
-
-// B tier
-//_________________________
-
-// Nasreddin
-// Relentless : Surrounded, Whirlwind
-//notes:B-tier Damage
-dimwishlist:item=1456017061&perks=2244851822,4274614370
-dimwishlist:item=1456017061&perks=2030760728,4274614370
-//notes:Stasis stronghold build
-dimwishlist:item=1456017061&perks=2030760728,4274614370
 
 //Rockets
 //________________________________________________________
@@ -705,22 +780,38 @@ dimwishlist:item=1456017061&perks=2030760728,4274614370
 // S tier
 //_________________________
 
-// Apex Predator
-// Reconstruction, Slideways, Demo : BnS, Surrounded, Bipod
-//notes:S-tier Damage
-dimwishlist:item=1851777734&perks=1523832109,1439600632
-dimwishlist:item=1851777734&perks=2039302152,1439600632
-dimwishlist:item=1851777734&perks=3523296417,1439600632
-dimwishlist:item=1851777734&perks=1523832109,3078487919
-dimwishlist:item=1851777734&perks=2039302152,3078487919
-dimwishlist:item=1851777734&perks=3523296417,3078487919
-dimwishlist:item=1851777734&perks=1523832109,3708227201
-dimwishlist:item=1851777734&perks=2039302152,3708227201
-dimwishlist:item=1851777734&perks=3523296417,3708227201
+// Hezen Vengeance
+// Arsenal, ClusterBomb, Overflow : BnS, ElementalHoning, Bipod
+//notes:S-tier damage 
+dimwishlist:item=2265407516&perks=3987942396,3078487919
+dimwishlist:item=2265407516&perks=1275731761,3078487919
+dimwishlist:item=2265407516&perks=3643424744,3078487919
+dimwishlist:item=2265407516&perks=3987942396,3194351027
+dimwishlist:item=2265407516&perks=1275731761,3194351027
+dimwishlist:item=2265407516&perks=3643424744,3194351027
+dimwishlist:item=2265407516&perks=3987942396,1439600632
+dimwishlist:item=2265407516&perks=1275731761,1439600632
+dimwishlist:item=2265407516&perks=3643424744,1439600632
+
+// Cynosure
+// Arsenal, Clown, Field : ElementalHoning, Explosive, Bipod
+//notes:S-tier damage
+dimwishlist:item=694275488&perks=3987942396,1089671869
+dimwishlist:item=694275488&perks=2284787283,1089671869
+dimwishlist:item=694275488&perks=2869569095,1089671869
+dimwishlist:item=694275488&perks=3987942396,3194351027
+dimwishlist:item=694275488&perks=2284787283,3194351027
+dimwishlist:item=694275488&perks=2869569095,3194351027
+dimwishlist:item=694275488&perks=3987942396,1439600632
+dimwishlist:item=694275488&perks=2284787283,1439600632
+dimwishlist:item=694275488&perks=2869569095,1439600632
+
+// A tier
+//_________________________
 
 // Tomorrow's Answer
 // Arsenal, Air, Withering : BnS, Explosive, Bipod
-//notes:S-tier Damage with Utility option
+//notes:A-tier Damage with Utility option
 dimwishlist:item=3009199534&perks=1134488199,3078487919
 dimwishlist:item=3009199534&perks=3987942396,3078487919
 dimwishlist:item=3009199534&perks=1421772400,3078487919
@@ -731,9 +822,22 @@ dimwishlist:item=3009199534&perks=1134488199,1439600632
 dimwishlist:item=3009199534&perks=3987942396,1439600632
 dimwishlist:item=3009199534&perks=1421772400,1439600632
 
+// Apex Predator
+// Reconstruction, Slideways, Demo : BnS, Surrounded, Bipod
+//notes:A-tier Damage
+dimwishlist:item=1851777734&perks=1523832109,1439600632
+dimwishlist:item=1851777734&perks=2039302152,1439600632
+dimwishlist:item=1851777734&perks=3523296417,1439600632
+dimwishlist:item=1851777734&perks=1523832109,3078487919
+dimwishlist:item=1851777734&perks=2039302152,3078487919
+dimwishlist:item=1851777734&perks=3523296417,3078487919
+dimwishlist:item=1851777734&perks=1523832109,3708227201
+dimwishlist:item=1851777734&perks=2039302152,3708227201
+dimwishlist:item=1851777734&perks=3523296417,3708227201
+
 // Crux Termination IV
 // Reconstruction, Clown, Slideshot : Bipod, Explosive, Surrounded
-//notes:S-tier Damage
+//notes:A-tier Damage
 dimwishlist:item=1719687748&perks=2284787283,1439600632
 dimwishlist:item=1719687748&perks=3161816588,1439600632
 dimwishlist:item=1719687748&perks=1523832109,1439600632
@@ -743,10 +847,6 @@ dimwishlist:item=1719687748&perks=1523832109,3194351027
 dimwishlist:item=1719687748&perks=2284787283,3708227201
 dimwishlist:item=1719687748&perks=3161816588,3708227201
 dimwishlist:item=1719687748&perks=1523832109,3708227201
-
-
-// A tier
-//_________________________
 
 // Cold Comfort
 // Assasin : BnS, Bipod
@@ -793,6 +893,14 @@ dimwishlist:item=4106757302&perks=3300816228,3993379141
 dimwishlist:item=4106757302&perks=1421772400,3993379141
 dimwishlist:item=4106757302&perks=3523296417,3993379141
 
+// Blowout
+// Field, Demo : Explosive, Frenzy
+//notes:A-tier damage
+dimwishlist:item=1903182562&perks=2869569095,3194351027
+dimwishlist:item=1903182562&perks=3523296417,3194351027
+dimwishlist:item=1903182562&perks=2869569095,4104185692
+dimwishlist:item=1903182562&perks=3523296417,4104185692
+
 //LFRs
 //________________________________________________________
 
@@ -825,7 +933,7 @@ dimwishlist:item=1501688142&perks=968510818,555281244
 dimwishlist:item=1501688142&perks=1523832109,3708227201
 dimwishlist:item=1501688142&perks=968510818,3708227201
 
-// B tier
+// Other
 //_________________________
 
 // Stormchaser
