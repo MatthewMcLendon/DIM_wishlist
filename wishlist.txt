@@ -316,6 +316,16 @@ dimwishlist:item=4028298892&perks=691659142,3523296417
 dimwishlist:item=4028298892&perks=2010801679,4104185692
 dimwishlist:item=4028298892&perks=3987942396,4104185692
 dimwishlist:item=4028298892&perks=691659142,4104185692
+// Shiny version
+dimwishlist:item=3840794631&perks=2010801679,3218042543
+dimwishlist:item=3840794631&perks=3987942396,3218042543
+dimwishlist:item=3840794631&perks=691659142,3218042543
+dimwishlist:item=3840794631&perks=2010801679,3523296417
+dimwishlist:item=3840794631&perks=3987942396,3523296417
+dimwishlist:item=3840794631&perks=691659142,3523296417
+dimwishlist:item=3840794631&perks=2010801679,4104185692
+dimwishlist:item=3840794631&perks=3987942396,4104185692
+dimwishlist:item=3840794631&perks=691659142,4104185692
 
 // Lost Signal
 // ALH, Lead : Vorpal, Demo, One4All
@@ -600,6 +610,13 @@ dimwishlist:item=1757177186&perks=3643424744,557221067
 dimwishlist:item=1757177186&perks=2869569095,557221067
 dimwishlist:item=1757177186&perks=3643424744,3218042543
 dimwishlist:item=1757177186&perks=2869569095,3218042543
+// Shiny version
+dimwishlist:item=768610585&perks=3643424744,3966416502
+dimwishlist:item=768610585&perks=2869569095,3966416502
+dimwishlist:item=768610585&perks=3643424744,557221067
+dimwishlist:item=768610585&perks=2869569095,557221067
+dimwishlist:item=768610585&perks=3643424744,3218042543
+dimwishlist:item=768610585&perks=2869569095,3218042543
 
 // A tier
 //_________________________
@@ -747,6 +764,9 @@ dimwishlist:item=2889501828&perks=2077819806,3523296417
 //notes:A-tier damage
 dimwishlist:item=547165496&perks=1749209109,1089671869
 dimwishlist:item=547165496&perks=1749209109,3708227201
+// Shiny version
+dimwishlist:item=4221591387&perks=1749209109,1089671869
+dimwishlist:item=4221591387&perks=1749209109,3708227201
 
 // Ill Omen
 // Relentless, Attrition : Whirlwind, Surrounded
@@ -981,6 +1001,16 @@ dimwishlist:item=3229982889&perks=3523296417,960997401
 dimwishlist:item=3229982889&perks=692399809,4104185692
 dimwishlist:item=3229982889&perks=923806249,4104185692
 dimwishlist:item=3229982889&perks=3523296417,4104185692
+// Shiny version
+dimwishlist:item=2987244302&perks=692399809,243981275
+dimwishlist:item=2987244302&perks=923806249,243981275
+dimwishlist:item=2987244302&perks=3523296417,243981275
+dimwishlist:item=2987244302&perks=692399809,960997401
+dimwishlist:item=2987244302&perks=923806249,960997401
+dimwishlist:item=2987244302&perks=3523296417,960997401
+dimwishlist:item=2987244302&perks=692399809,4104185692
+dimwishlist:item=2987244302&perks=923806249,4104185692
+dimwishlist:item=2987244302&perks=3523296417,4104185692
 
 // Reckless Oracle
 // Destabalizing, Demo : Repulsor, One4All
@@ -1244,7 +1274,7 @@ dimwishlist:item=3444688218&perks=4293542123,4104185692
 dimwishlist:item=3444688218&perks=3017780555,4104185692
 dimwishlist:item=3444688218&perks=3418782618,4104185692
 
-//Randy's Throwing Knife
+// Randy's Throwing Knife
 // RapidHit, Discord : Kinetic
 //notes:A-tier add clear
 dimwishlist:item=3292795429&perks=247725512,3891536761
