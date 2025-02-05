@@ -2,6 +2,8 @@
 //________________________________________________________
 
 // S tier
+//_________________________
+
 // IKELOS_SG_V1.0.3
 // Grave, Threat, Pugilist : Surrounded, Cascade, One-Two
 //notes:S-tier Damage
@@ -52,6 +54,8 @@ dimwishlist:item=3649985571&perks=1631667848,2173046394
 dimwishlist:item=3649985571&perks=4071163871,2173046394
 
 // A tier
+//_________________________
+
 // Dead weight
 // Grave, ALH, LFG : One-Two, Frenzy, Surrounded
 //notes:A-tier Damage with One-Two punch option, not enhanceable
@@ -99,6 +103,8 @@ dimwishlist:item=2573900604&perks=1556840489,2679249093
 //________________________________________________________
 
 // S tier
+//_________________________
+
 // The Supremacy
 // Rewind, LFG, Discord : Kinetic Tremors, BnS, Fourth
 //notes:S-tier Damage
@@ -128,6 +134,8 @@ dimwishlist:item=3818198556&perks=3523296417,1134488199
 dimwishlist:item=3818198556&perks=3978468247,438098033
 
 // A tier
+//_________________________
+
 // Succession (Brave)
 // Reconstruction, Demo, Discord : Recombination, Vorpal, Redirection
 //notes:A-tier Damage (Burst) or Add clear
@@ -161,6 +169,8 @@ dimwishlist:item=2673925403&perks=1354429876,1771339417
 //________________________________________________________
 
 // S tier
+//_________________________
+
 // Scatter Signal - Damage
 // Overflow : ConBurst
 // notes:S-tier Damage
@@ -190,6 +200,8 @@ dimwishlist:item=2715240478&perks=1556840489,3523296417
 dimwishlist:item=2715240478&perks=2869569095,3523296417
 
 // A tier
+//_________________________
+
 // Royal Executioner
 // Assasin, LFG : Reservoir, Incandescent
 //notes:A-tier Add clear with Damage potential
@@ -237,6 +249,8 @@ dimwishlist:item=3867373351&perks=1799762209,3708227201
 //________________________________________________________
 
 // S tier
+//_________________________
+
 // VS Velocity Baton
 // Demo, Repulsor : Attrition, Destabalizing, BnS
 //notes:Add clear
@@ -290,6 +304,7 @@ dimwishlist:item=2599338624&perks=3987942396,2396489472
 dimwishlist:item=2599338624&perks=1955165503,2396489472
 
 // A tier
+//_________________________
 
 // Martyr's Retribution
 // Heal, Demo, ALH : Incandescent, Kill
@@ -315,6 +330,8 @@ dimwishlist:item=568611921&perks=3523296417,3592538738
 dimwishlist:item=568611921&perks=3108830275,3592538738
 
 // B tier
+//_________________________
+
 // Wild Style
 // Reconstruction : BnS, Vorpal
 //notes:B-Tier Damage
@@ -325,6 +342,8 @@ dimwishlist:item=1332123064&perks=981914802,3492396210,1523832109,1546637391
 //________________________________________________________
 
 // S tier
+//_________________________
+
 // Rake Angle
 // Impulse, LFG : Chill, close2melee, Surrounded(added by me)
 //notes:S-tier Utility or Damage
@@ -353,6 +372,8 @@ dimwishlist:item=254636484&perks=951095735,4104185692
 dimwishlist:item=254636484&perks=1556840489,4104185692
 
 // A tier
+//_________________________
+
 // Albedo Wing
 // Air, Grave : LFG, Demo, close2melee
 //notes:A-tier Add clear
@@ -375,6 +396,8 @@ dimwishlist:item=2595497736&perks=951095735,4104185692
 //________________________________________________________
 
 // S tier
+//_________________________
+
 // Chronophage
 // S2Loot, Repulsor : Destabalizing, Demo, Desperate
 //notes:S-tier Utility
@@ -393,6 +416,8 @@ dimwishlist:item=548958835&perks=3700496672,4104185692
 dimwishlist:item=548958835&perks=3700496672,4293542123
 
 // A tier
+//_________________________
+
 // Path of Least Resistance
 // S2Loot : Voltshot
 //notes:A-tier Utility
@@ -402,11 +427,15 @@ dimwishlist:item=2827764482&perks=3700496672,2173046394
 //________________________________________________________
 
 //S tier
+//_________________________
+
 // Aberrant Action
 //notes:S-tier Add clear
 dimwishlist:item=2198166292&perks=3017780555,4293542123
 
 //A tier
+//_________________________
+
 // Tinasha's Mastery
 // Air, Reverberation, Deconstruct : Chil, Desperate, Surrounded
 //notes:A-tier Utility or Add clear
@@ -431,6 +460,8 @@ dimwishlist:item=3381450498&perks=951095735,3673922083
 dimwishlist:item=3381450498&perks=1556840489,3673922083
 
 //B tier
+//_________________________
+
 // The Call
 // Slice, LFG, Demo : Desperate, Tricorn, One4All
 //notes:B-tier Add clear
@@ -448,6 +479,8 @@ dimwishlist:item=3947966653&perks=3523296417,4049631843
 //________________________________________________________
 
 // S tier
+//_________________________
+
 // Pro Memoria
 // Demo, Reconstruction, Hatchling : Desperate, BnS, Dragonfly
 //notes:S-tier Add clear 
@@ -462,6 +495,8 @@ dimwishlist:item=3605603507&perks=1523832109,2848615171
 dimwishlist:item=3605603507&perks=831391274,2848615171
 
 // A tier
+//_________________________
+
 // Avalanche
 // ALH, Subsistence, Dragonfly : Incandescent, Cascade
 //notes:A-tier Add clear or Damage
@@ -519,6 +554,8 @@ dimwishlist:item=4233375372&perks=3523296417,2610012052
 //________________________________________________________
 
 // S tier
+//_________________________
+
 // VS Chill Inhibitor
 // Cascade, Arsenal (Attrition) : BnS, Surrounded, Explosive
 //notes:S-tier Damage
@@ -530,6 +567,8 @@ dimwishlist:item=1762785662&perks=3751912585,3194351027
 dimwishlist:item=1762785662&perks=3987942396,3194351027
 
 // A tier
+//_________________________
+
 // Bitter/Sweet
 // Arsenal : BnS, Cascade, Explosive
 //notes:A-tier Damage
@@ -558,6 +597,8 @@ dimwishlist:item=568611923&perks=3751912585,3993379141
 dimwishlist:item=568611923&perks=968510818,3993379141
 
 // B tier
+//_________________________
+
 // Cataphract GL3
 // Assasin, ALH : BnS, Cascade
 //notes:B-tier Damage
@@ -602,6 +643,8 @@ dimwishlist:item=425681240&perks=1134488199,3078487919
 //________________________________________________________
 
 // S tier
+//_________________________
+
 // Falling Guillotine (Brave)
 // Chain, Frenzy : Eager, BnS, Surrounded
 //notes:S-tier Damage
@@ -630,6 +673,8 @@ dimwishlist:item=2889501828&perks=2077819806,3650930298
 dimwishlist:item=2889501828&perks=2077819806,3523296417
 
 // A tier
+//_________________________
+
 // Ill Omen
 // Relentless, Attrition : Whirlwind, Surrounded
 //notes:A-tier Damage with Utility option
@@ -644,6 +689,8 @@ dimwishlist:item=3794274730&perks=243981275,3708227201
 dimwishlist:item=3637669759&perks=1749209109,3913600130
 
 // B tier
+//_________________________
+
 // Nasreddin
 // Relentless : Surrounded, Whirlwind
 //notes:B-tier Damage
@@ -656,6 +703,8 @@ dimwishlist:item=1456017061&perks=2030760728,4274614370
 //________________________________________________________
 
 // S tier
+//_________________________
+
 // Apex Predator
 // Reconstruction, Slideways, Demo : BnS, Surrounded, Bipod
 //notes:S-tier Damage
@@ -697,6 +746,8 @@ dimwishlist:item=1719687748&perks=1523832109,3708227201
 
 
 // A tier
+//_________________________
+
 // Cold Comfort
 // Assasin : BnS, Bipod
 //notes:A-tier Damage, not enhanceable
@@ -746,6 +797,8 @@ dimwishlist:item=4106757302&perks=3523296417,3993379141
 //________________________________________________________
 
 // S tier
+//_________________________
+
 // Scintillation
 // Rewind, Cornered : BnS, Surrounded
 //notes:S-tier Damage
@@ -762,6 +815,8 @@ dimwishlist:item=3483485727&perks=968510818,3078487919
 dimwishlist:item=3483485727&perks=1523832109,3078487919
 
 // A tier
+//_________________________
+
 // Doomed Petitioner
 // Assasin, Reconstruction : Surrounded, PI
 //notes:A-tier Damage
@@ -771,6 +826,8 @@ dimwishlist:item=1501688142&perks=1523832109,3708227201
 dimwishlist:item=1501688142&perks=968510818,3708227201
 
 // B tier
+//_________________________
+
 // Stormchaser
 // Clown, ALH : Firing, Frenzy
 //notes:B-tier Damage, not enhanceable
@@ -785,288 +842,9 @@ dimwishlist:item=3652506829&perks=3300816228,1771339417
 dimwishlist:item=2450049485&perks=2284787283,3078487919
 dimwishlist:item=2450049485&perks=3993379141,3078487919
 
-//Primaries
+// Autos
 //________________________________________________________
 
-// Auto Rifles
-// Breakneck
-// Enlightened, Subsistence, S2Loot : Kinetic, Onslaught, Deconstruct
-//notes:Add clear
-dimwishlist:item=2026755633&perks=3828510309,3891536761
-dimwishlist:item=2026755633&perks=1820235745,3891536761
-dimwishlist:item=2026755633&perks=3700496672,3891536761
-dimwishlist:item=2026755633&perks=3828510309,95528736
-dimwishlist:item=2026755633&perks=1820235745,95528736
-dimwishlist:item=2026755633&perks=3700496672,95528736
-dimwishlist:item=2026755633&perks=3828510309,3993379141
-dimwishlist:item=2026755633&perks=1820235745,3993379141
-dimwishlist:item=2026755633&perks=3700496672,3993379141
-
-// Veiled Threat
-// S2Loot, Attrition : Desperate
-//notes:Add clear / Utility
-dimwishlist:item=3685470415&perks=3700496672,2109543898
-dimwishlist:item=3685470415&perks=243981275,2109543898
-
-// No Hesitation
-// Physic, Demo : Incandescent, CircleOfLife
-//notes:Add clear / Utility
-dimwishlist:item=1801007332&perks=2980589453,2298656195
-dimwishlist:item=1801007332&perks=3523296417,4293542123
-
-// The Summoner
-// Subsistence, Heal : Incandescent, Onslaught
-//notes:Add clear
-dimwishlist:item=1820994983&perks=3017780555,4293542123
-dimwishlist:item=1820994983&perks=1820235745,4293542123
-dimwishlist:item=1820994983&perks=3017780555,95528736
-dimwishlist:item=1820994983&perks=1820235745,95528736
-
-// Ros Arago IV
-// Repulsor, Subsistence, Permeability, Rewind : Onslaught, UnderOver, Surrounded, Deconstruct
-//notes:Add clear
-dimwishlist:item=3583275737&perks=776531651,95528736
-dimwishlist:item=3583275737&perks=1820235745,95528736
-dimwishlist:item=3583275737&perks=2428997981,95528736
-dimwishlist:item=3583275737&perks=3418782618,95528736
-dimwishlist:item=3583275737&perks=776531651,1870851715
-dimwishlist:item=3583275737&perks=1820235745,1870851715
-dimwishlist:item=3583275737&perks=2428997981,1870851715
-dimwishlist:item=3583275737&perks=3418782618,1870851715
-dimwishlist:item=3583275737&perks=776531651,3708227201
-dimwishlist:item=3583275737&perks=1820235745,3708227201
-dimwishlist:item=3583275737&perks=2428997981,3708227201
-dimwishlist:item=3583275737&perks=3418782618,3708227201
-dimwishlist:item=3583275737&perks=776531651,3993379141
-dimwishlist:item=3583275737&perks=1820235745,3993379141
-dimwishlist:item=3583275737&perks=2428997981,3993379141
-dimwishlist:item=3583275737&perks=3418782618,3993379141
-
-// Bows
-// Accrued Redemption
-// ArchersTempo : Tremors, Firefly, ExplosiveHead
-// notes:Add clear
-dimwishlist:item=3621336854&perks=201365942,3824105627
-dimwishlist:item=3621336854&perks=201365942,3891536761
-dimwishlist:item=3621336854&perks=201365942,3365897133
-
-// Raconteur
-// ArchersTempo, S2Loot : ExplosiveHead, Headstone
-//notes:Add clear
-dimwishlist:item=45643573&perks=201365942,124408337
-//notes:Utility
-dimwishlist:item=45643573&perks=3700496672,3365897133
-
-// Vengeful Whisper
-// ExplosiveHead, Slice : Hatchling
-//notes:Add clear
-dimwishlist:item=839344841&perks=3365897133,831391274
-dimwishlist:item=839344841&perks=923806249,831391274
-
-// Tyranny of Heaven
-// Dragonfly : Incandescent
-//notes:Add clear
-dimwishlist:item=3388655311&perks=2848615171,4293542123
-
-// Pre Astyanaz IV
-// S2Loot, ArchersTempo, Attrition : ExplosiveHead, Incandescent, ArchersGambit
-//notes:Utility
-dimwishlist:item=2932922810&perks=3700496672,3365897133
-dimwishlist:item=2932922810&perks=201365942,3365897133
-dimwishlist:item=2932922810&perks=243981275,3365897133
-dimwishlist:item=2932922810&perks=3700496672,4293542123
-dimwishlist:item=2932922810&perks=201365942,4293542123
-dimwishlist:item=2932922810&perks=243981275,4293542123
-dimwishlist:item=2932922810&perks=3700496672,3414324643
-dimwishlist:item=2932922810&perks=201365942,3414324643
-dimwishlist:item=2932922810&perks=243981275,3414324643
-
-// Hand Cannons
-// Midnight Coup
-// Firefly, S2Loot, Explosive : Frenzy, Kinetic, One4All
-//notes:Add clear
-dimwishlist:item=2499720827&perks=3824105627,4104185692
-dimwishlist:item=2499720827&perks=3700496672,4104185692
-dimwishlist:item=2499720827&perks=3038247973,4104185692
-dimwishlist:item=2499720827&perks=3824105627,3891536761
-dimwishlist:item=2499720827&perks=3700496672,3891536761
-dimwishlist:item=2499720827&perks=3038247973,3891536761
-dimwishlist:item=2499720827&perks=3824105627,4049631843
-dimwishlist:item=2499720827&perks=3700496672,4049631843
-dimwishlist:item=2499720827&perks=3038247973,4049631843
-
-// Luna's Howl
-// Heal : Incandescent
-//notes:Add clear
-dimwishlist:item=2763843899&perks=3017780555,4293542123
-
-// Sightline Survey
-// Air : Voltshot
-//notes:Add clear
-dimwishlist:item=2350330520&perks=1421772400,2173046394
-
-// Warden's Law
-// Enlightened : Vorpal
-//notes:Damage
-dimwishlist:item=2152484073&perks=3828510309,1546637391
-
-// Yesterday's Question
-// Rapid : Vorpal
-//notes:Damage
-dimwishlist:item=2300143112&perks=247725512,1546637391
-// Dragonfly : Voltshot
-//notes:Add clear
-dimwishlist:item=2300143112&perks=2848615171,2173046394
-
-// Maahes HC4
-// Enlightened, Rapid : Frenzy
-//notes:Damage
-dimwishlist:item=1246793994&perks=247725512,4104185692
-dimwishlist:item=1246793994&perks=3828510309,4104185692
-//notes:Add clear
-dimwishlist:item=1246793994&perks=776531651,2048641572
-
-// Pulse Rifles
-// Blast Furnace (Brave)
-// Kinetic, S2Loot : Frenzy, Firefly
-//notes:Add clear
-dimwishlist:item=2372514508&perks=3891536761,4104185692
-dimwishlist:item=2372514508&perks=3700496672,4104185692
-dimwishlist:item=2372514508&perks=3891536761,3824105627
-dimwishlist:item=2372514508&perks=3700496672,3824105627
-
-// Aisha's Cure
-// Slice : Hatchling
-//notes:Add clear
-dimwishlist:item=3969379530&perks=923806249,831391274
-
-// Chattering Bone
-// Rapid, Kill : Kinetic
-//notes:Add clear
-dimwishlist:item=501329015&perks=247725512,3891536761
-dimwishlist:item=501329015&perks=1015611457,3891536761
-
-// Corrasion
-// Air, Enlightened : Voltshot, One4All
-dimwishlist:item=2126178511&perks=1421772400,2173046394
-dimwishlist:item=2126178511&perks=3828510309,2173046394
-dimwishlist:item=2126178511&perks=3828510309,4049631843
-
-// Gridskipper
-// Repulsor : Destabalizing
-//notes:Add clear
-dimwishlist:item=3433930495&perks=776531651,2048641572
-
-// Scout Rifles
-// Randy's Throwing Knife
-// Rapid, UnderOver : Kinetic, Adaptive
-//notes:Add clear
-dimwishlist:item=3292795429&perks=247725512,3891536761
-dimwishlist:item=3292795429&perks=1870851715,3891536761
-dimwishlist:item=3292795429&perks=247725512,1048183818
-dimwishlist:item=3292795429&perks=1870851715,1048183818
-
-// Hung Jury
-// S2Loot, Kinetic : Firefly, Explosive
-//notes:Add clear or Utility
-dimwishlist:item=1453235079&perks=3700496672,3038247973
-dimwishlist:item=1453235079&perks=3700496672,3824105627
-dimwishlist:item=1453235079&perks=3891536761,3824105627
-dimwishlist:item=1453235079&perks=3891536761,3038247973
-
-// Timeworn Wayfarer
-// Heal, S2Loot : Incandescent
-//notes:Add clear
-dimwishlist:item=1058098236&perks=3017780555,4293542123
-dimwishlist:item=1058098236&perks=3700496672,4293542123
-
-// Tarnished Mettle
-// S2Loot : Explosive
-//notes:Utility
-dimwishlist:item=2218569744&perks=3700496672,3038247973
-
-// Brya's Love
-// S2Loot : Explosive
-//notes:Utility
-dimwishlist:item=2779821308&perks=3700496672,3038247973
-
-// Patron of Lost Causes
-// Rapid, Triple : Explosive, Kinetic, PI
-//notes:Add clear
-dimwishlist:item=2249996761&perks=3400784728,3038247973
-dimwishlist:item=2249996761&perks=247725512,3038247973
-dimwishlist:item=2249996761&perks=3400784728,3891536761
-dimwishlist:item=2249996761&perks=247725512,3891536761
-dimwishlist:item=2249996761&perks=3400784728,555281244
-dimwishlist:item=2249996761&perks=247725512,555281244
-
-// Sidearms
-// Breachlight
-// Demo, Slice, Threat : Desperate, Hatchling
-//notes:Add clear
-dimwishlist:item=2328923181&perks=3523296417,2109543898
-dimwishlist:item=2328923181&perks=923806249,2109543898
-dimwishlist:item=2328923181&perks=4071163871,2109543898
-dimwishlist:item=2328923181&perks=3523296417,831391274
-dimwishlist:item=2328923181&perks=923806249,831391274
-dimwishlist:item=2328923181&perks=4071163871,831391274
-
-// Brigand's Law
-// Threat, Pugilist : Voltshot, Demo
-//notes:Add clear
-dimwishlist:item=1298815317&perks=4071163871,2173046394
-//notes:Utility
-dimwishlist:item=1298815317&perks=691659142,3523296417
-
-// Anonymous Autumn
-// Eddy, Demo, Attrition : Voltshot, Frenzy, Desperate
-//notes:Add clear
-dimwishlist:item=1051949956&perks=243981275,2109543898
-dimwishlist:item=1051949956&perks=3523296417,2109543898
-dimwishlist:item=1051949956&perks=684456054,2109543898
-dimwishlist:item=1051949956&perks=243981275,4104185692
-dimwishlist:item=1051949956&perks=3523296417,4104185692
-dimwishlist:item=1051949956&perks=684456054,4104185692
-dimwishlist:item=1051949956&perks=243981275,2173046394
-dimwishlist:item=1051949956&perks=3523296417,2173046394
-dimwishlist:item=1051949956&perks=684456054,2173046394
-
-// Heliocentric QSC
-// Heal, Demo : Incandescent, Frenzy
-//notes:Add clear
-dimwishlist:item=3998080529&perks=3017780555,4293542123
-dimwishlist:item=3998080529&perks=3017780555,4104185692
-dimwishlist:item=3998080529&perks=3523296417,4293542123
-dimwishlist:item=3998080529&perks=3523296417,4104185692
-
-// SMG
-// Multimach CCX
-// Attrition, UnderOver : Frenzy, Kinetic
-//notes:Add clear
-dimwishlist:item=3211624072&perks=243981275,4104185692
-dimwishlist:item=3211624072&perks=243981275,3891536761
-dimwishlist:item=3211624072&perks=1870851715,4104185692
-dimwishlist:item=3211624072&perks=1870851715,3891536761
-
-// Subjunctive
-// Threat, S2Loot, Stats4All : Voltshot, One4All
-//notes:Add clear
-dimwishlist:item=1447836603&perks=3700496672,2173046394
-dimwishlist:item=1447836603&perks=4071163871,2173046394
-dimwishlist:item=1447836603&perks=3700496672,4049631843
-dimwishlist:item=1447836603&perks=4071163871,4049631843
-dimwishlist:item=1447836603&perks=3700496672,1583705720
-dimwishlist:item=1447836603&perks=4071163871,1583705720
-
-// The Recluse (Brave)
-// Enlightened, Repulsor : Desperate, Frenzy, Destabalizing
-//notes:Add clear
-dimwishlist:item=1050806815&perks=3828510309,4104185692
-dimwishlist:item=1050806815&perks=776531651,4104185692
-dimwishlist:item=1050806815&perks=3828510309,2048641572
-dimwishlist:item=1050806815&perks=776531651,2048641572
-dimwishlist:item=1050806815&perks=3828510309,2109543898
-dimwishlist:item=1050806815&perks=776531651,2109543898
 
 //Armor
 //________________________________________________________
@@ -1081,129 +859,3 @@ dimwishlist:item=266021826&perks=1476923953,1476923955 //heart eater, all rounde
 dimwishlist:item=266021826&perks=1476923953,3573490504 //heart cannon, punch build
 dimwishlist:item=266021826&perks=3573490509,3573490504 //severance cannon, alt punch build
 dimwishlist:item=266021826&perks=1476923953,3573490507 //heart scars, all rounder healing focus
-
-//Episode Revenant: Act I 
-//________________________________________________________
-
-//Seasonal
-// Insurmountable
-// Repulsor, Attrition : Destabalizing, One4All
-//notes:Utility
-dimwishlist:item=414045521&perks=776531651,2048641572
-dimwishlist:item=414045521&perks=243981275,4049631843
-// Threat, Demo : One4All, Surrounded
-//notes:Add clear
-dimwishlist:item=414045521&perks=4071163871,4049631843
-dimwishlist:item=414045521&perks=4071163871,3708227201
-dimwishlist:item=414045521&perks=3523296417,4049631843
-dimwishlist:item=414045521&perks=3523296417,3708227201
-
-
-// Noxious Vetiver
-// LooseChange, Attrition : JoltingFeedback
-//notes:Utility
-dimwishlist:item=825495813&perks=1119449540,3966416502
-dimwishlist:item=825495813&perks=243981275,3966416502
-
-// Exuviae
-// Rimestealer, Triple, Stats4All : Headstone, PI, One4All
-//notes:Add clear
-dimwishlist:item=2823644677&perks=1955165503,124408337
-dimwishlist:item=2823644677&perks=3400784728,555281244
-dimwishlist:item=2823644677&perks=1583705720,4049631843
-// LoneWolf : Explosive
-//notes:pvp
-dimwishlist:item=2823644677&perks=2579169598,3038247973
-
-// Red Tape
-// Rimestealer, Demo : Headstone, One4All
-//notes:Add clear
-dimwishlist:item=3423493037&perks=1955165503,124408337
-dimwishlist:item=3423493037&perks=3523296417,124408337
-dimwishlist:item=3423493037&perks=3523296417,4049631843
-dimwishlist:item=3423493037&perks=1194056669,4049631843
-// LoneWolf : Explosive
-//notes:pvp
-dimwishlist:item=3423493037&perks=2579169598,3038247973
-dimwishlist:item=3423493037&perks=1354429876,3038247973
-
-// Vantage Point
-// Stats4All, Deconstruct : JoltingFeedback, One4All
-//notes:Add clear
-dimwishlist:item=3830941962&perks=1583705720,3966416502
-dimwishlist:item=3830941962&perks=1583705720,4049631843
-dimwishlist:item=3830941962&perks=3993379141,3966416502
-// Deconstruct, Closing : Desperado
-//notes:pvp
-dimwishlist:item=3830941962&perks=3993379141,3047969693
-dimwishlist:item=3830941962&perks=1194056669,3047969693
-
-//Reprised weapons
-//________________________________________________________
-
-// Sojourner's Tale
-// Discord, Heal : Incandescent
-//notes:Add clear
-dimwishlist:item=2130875369&perks=3978468247,4293542123
-dimwishlist:item=2130875369&perks=3017780555,4293542123
-// AHL, Heal : PI
-//notes:Damage
-dimwishlist:item=2130875369&perks=3300816228,555281244
-dimwishlist:item=2130875369&perks=3017780555,555281244
-
-// Chroma Rush
-// Subsistence : Rampage, Kinetic, Frenzy
-//notes:Add clear
-dimwishlist:item=2598420927&perks=1820235745,3425386926
-dimwishlist:item=2598420927&perks=1820235745,3891536761
-dimwishlist:item=2598420927&perks=1820235745,4104185692
-// KillingWind, TunnelVision, HeatingUp : Kill, TargetLock
-//notes:pvp
-dimwishlist:item=2598420927&perks=2450788523,1015611457
-dimwishlist:item=2598420927&perks=2450788523,365154968
-dimwishlist:item=2598420927&perks=2946784966,365154968
-dimwishlist:item=2598420927&perks=2946784966,1015611457
-dimwishlist:item=2598420927&perks=1570042021,365154968
-dimwishlist:item=2598420927&perks=1570042021,1015611457
-
-// Ignition code
-// Hard Launch : Blinding, Spike, Implosion : Slideshot : Frenzy, Reverberation
-//notes:Damage
-dimwishlist:item=2761869150&perks=981914802,3032599245,3161816588,563069569
-dimwishlist:item=2761869150&perks=981914802,3301904089,3161816588,563069569
-dimwishlist:item=2761869150&perks=981914802,3492396210,3161816588,563069569
-dimwishlist:item=2761869150&perks=981914802,3032599245,3161816588,4104185692
-dimwishlist:item=2761869150&perks=981914802,3301904089,3161816588,4104185692
-dimwishlist:item=2761869150&perks=981914802,3492396210,3161816588,4104185692
-
-//World pool
-//________________________________________________________
-
-// Live Fire
-// Rimestealer : S2Loot
-//notes:Utility
-dimwishlist:item=3612142623&perks=1955165503,3700496672
-//notes:Add clear, but worse than Red Tape
-dimwishlist:item=3612142623&perks=1955165503,124408337
-
-//Vesper's Host
-//________________________________________________________
-
-// VS Pryoelectric Propellant
-// Attrition, Eddy : JoltingFeedback
-//notes:Utility
-dimwishlist:item=4232480042&perks=243981275,3966416502
-//notes:Amplified add clear
-dimwishlist:item=4232480042&perks=684456054,3966416502
-dimwishlist:item=4232480042&perks=684456054,95528736
-
-// VS Gravitic Arrest
-// Repulsor, Unrelenting, Demo : Withering, Chain
-//notes:Utility but Glacioclasm is probably better for Withering
-dimwishlist:item=93061497&perks=776531651,1134488199
-//notes:Add clear
-imwishlist:item=93061497&perks=3108830275,2396489472
-dimwishlist:item=93061497&perks=3523296417,2396489472
-// 2thePain : Closing
-//notes:PVP
-dimwishlist:item=93061497&perks=3938834702,1194056669
