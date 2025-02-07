@@ -316,6 +316,9 @@ dimwishlist:item=4028298892&perks=691659142,3523296417
 dimwishlist:item=4028298892&perks=2010801679,4104185692
 dimwishlist:item=4028298892&perks=3987942396,4104185692
 dimwishlist:item=4028298892&perks=691659142,4104185692
+dimwishlist:item=4028298892&perks=2010801679,1089671869
+dimwishlist:item=4028298892&perks=3987942396,1089671869
+dimwishlist:item=4028298892&perks=691659142,1089671869
 
 // Psychopomp (Shiny)
 //notes:S-tier add clear with utility options
@@ -328,6 +331,9 @@ dimwishlist:item=3840794631&perks=691659142,3523296417
 dimwishlist:item=3840794631&perks=2010801679,4104185692
 dimwishlist:item=3840794631&perks=3987942396,4104185692
 dimwishlist:item=3840794631&perks=691659142,4104185692
+dimwishlist:item=3840794631&perks=2010801679,1089671869
+dimwishlist:item=3840794631&perks=3987942396,1089671869
+dimwishlist:item=3840794631&perks=691659142,1089671869
 
 // Lost Signal
 // ALH, Lead : Vorpal, Demo, One4All
