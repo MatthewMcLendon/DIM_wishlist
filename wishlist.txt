@@ -513,6 +513,15 @@ dimwishlist:item=548958835&perks=3700496672,4293542123
 //notes:A-tier Utility
 dimwishlist:item=2827764482&perks=3700496672,2173046394
 
+// Keraunios
+// Discord, RecycledEnergy : DetonatorBeam, JoltingFeedback, RollingStorm
+dimwishlist:item=2029899814&perks=3978468247,4198902903
+dimwishlist:item=2029899814&perks=3713215006,4198902903
+dimwishlist:item=2029899814&perks=3978468247,3218042543
+dimwishlist:item=2029899814&perks=3713215006,3218042543
+dimwishlist:item=2029899814&perks=3978468247,3966416502
+dimwishlist:item=2029899814&perks=3713215006,3966416502
+
 // Warlord's Spear
 // RewindRounds, LooseChange : DetonatorBeam, JoltingFeedback, DesperateMeasures
 //notes:A-tier Utility with add clear option
