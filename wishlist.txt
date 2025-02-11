@@ -76,6 +76,14 @@ dimwishlist:item=3649985571&perks=1354429876,2173046394
 dimwishlist:item=3649985571&perks=1631667848,2173046394
 dimwishlist:item=3649985571&perks=4071163871,2173046394
 
+// Unvoiced
+// EnviousArsenal, Redirection : BaitAndSwitch, VorpalWeapon
+//notes:A-tier Damage
+dimwishlist:item=3360937899&perks=3987942396,3078487919
+dimwishlist:item=3360937899&perks=3201496230,3078487919
+dimwishlist:item=3360937899&perks=3987942396,1546637391
+dimwishlist:item=3360937899&perks=3201496230,1546637391
+
 // Wastelander M5
 // LeadFromGold, Pugilist : OneTwoPunch, VorpalWeapon
 //notes:A-tier Damage
@@ -469,13 +477,26 @@ dimwishlist:item=2595497736&perks=951095735,4104185692
 
 // Chronophage
 // ShootToLoot, RepulsorBrace : DestabalizingRounds, Demolitionist, DesperateMeasures
-//notes:S-tier Utility
+//notes:S-tier Utility / add clear
 dimwishlist:item=1886840007&perks=3700496672,2048641572
 dimwishlist:item=1886840007&perks=776531651,2048641572
 dimwishlist:item=1886840007&perks=3700496672,3523296417
 dimwishlist:item=1886840007&perks=776531651,3523296417
 dimwishlist:item=1886840007&perks=3700496672,2109543898
 dimwishlist:item=1886840007&perks=776531651,2109543898
+
+// Unsworn
+// ShootToLoot, Tear, RewindRounds : DetonatorBeam, ElementalHoning, Hatchling
+//notes:S-tier Utility / add clear
+dimwishlist:item=1303313141&perks=960997401,4198902903
+dimwishlist:item=1303313141&perks=3700496672,4198902903
+dimwishlist:item=1303313141&perks=3418782618,4198902903
+dimwishlist:item=1303313141&perks=960997401,831391274
+dimwishlist:item=1303313141&perks=3700496672,831391274
+dimwishlist:item=1303313141&perks=3418782618,831391274
+dimwishlist:item=1303313141&perks=960997401,1089671869
+dimwishlist:item=1303313141&perks=3700496672,1089671869
+dimwishlist:item=1303313141&perks=3418782618,1089671869
 
 // A tier
 //_________________________
@@ -1156,6 +1177,14 @@ dimwishlist:item=4184168210&perks=3891536761,4049631843
 dimwishlist:item=4184168210&perks=3038247973,4104185692
 dimwishlist:item=4184168210&perks=3891536761,4104185692
 
+// Unloved
+// RapidHit, Dragonfly : ElementalHoning, Frenzy
+//notes:A-tier add clear
+dimwishlist:item=2485881870&perks=247725512,1089671869
+dimwishlist:item=2485881870&perks=2848615171,1089671869
+dimwishlist:item=2485881870&perks=247725512,4104185692
+dimwishlist:item=2485881870&perks=2848615171,4104185692
+
 // Pulse rifles
 //________________________________________________________
 
@@ -1242,6 +1271,11 @@ dimwishlist:item=2372514508&perks=3700496672,4104185692
 
 // S tier
 //_________________________
+
+// Unworthy
+// Firefly : Voltshot
+//notes:S-tier add clear
+dimwishlist:item=2226158470&perks=3824105627,2173046394
 
 // Vouchsafe 
 // RepulsorBrace, RapidHit : DestabalizingRounds, Dragonfly, ExplosivePayload
