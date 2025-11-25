@@ -1055,15 +1055,15 @@ dimwishlist:item=1183116657&perks=1421772400,1134488199
 // Afterlight
 // Discord, LeadFromGold, GraveRobber : ReservoirBurst, DestabalizingRounds, VorpalWeapon
 //notes:A-tier add clear with damage options
-dimwishlist:item=3953163559&perks=1631667848,1427256713
-dimwishlist:item=3953163559&perks=3978468247,1427256713
-dimwishlist:item=3953163559&perks=1556840489,1427256713
-dimwishlist:item=3953163559&perks=1631667848,2048641572
-dimwishlist:item=3953163559&perks=3978468247,2048641572
-dimwishlist:item=3953163559&perks=1556840489,2048641572
-dimwishlist:item=3953163559&perks=1631667848,1546637391
-dimwishlist:item=3953163559&perks=3978468247,1546637391
-dimwishlist:item=3953163559&perks=1556840489,1546637391
+dimwishlist:item=3228630258&perks=3978468247,1427256713
+dimwishlist:item=3228630258&perks=3978468247,2048641572
+dimwishlist:item=3228630258&perks=3978468247,1546637391
+dimwishlist:item=3228630258&perks=1556840489,1427256713
+dimwishlist:item=3228630258&perks=1556840489,2048641572
+dimwishlist:item=3228630258&perks=1556840489,1546637391
+dimwishlist:item=3228630258&perks=1631667848,1427256713
+dimwishlist:item=3228630258&perks=1631667848,2048641572
+dimwishlist:item=3228630258&perks=1631667848,1546637391
 
 // B tier
 //_________________________
