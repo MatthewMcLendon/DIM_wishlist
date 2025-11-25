@@ -1356,6 +1356,16 @@ dimwishlist:item=1893967086&perks=3400784728,1354429876
 // Succession (Brave)
 // Reconstruction, Demolitionist, Discord : Recombination, VorpalWeapon, Redirection
 //notes:A-tier Izinagi like burst + good Demo weapon (doubled gains + origin)
+dimwishlist:item=3612338554&perks=1523832109,469285294
+dimwishlist:item=3612338554&perks=3523296417,469285294
+dimwishlist:item=3612338554&perks=3978468247,469285294
+dimwishlist:item=3612338554&perks=1523832109,1546637391
+dimwishlist:item=3612338554&perks=3523296417,1546637391
+dimwishlist:item=3612338554&perks=3978468247,1546637391
+dimwishlist:item=3612338554&perks=1523832109,3201496230
+dimwishlist:item=3612338554&perks=3523296417,3201496230
+dimwishlist:item=3612338554&perks=3978468247,3201496230
+// shiny
 dimwishlist:item=570866107&perks=1523832109,469285294
 dimwishlist:item=570866107&perks=3523296417,469285294
 dimwishlist:item=570866107&perks=3978468247,469285294
